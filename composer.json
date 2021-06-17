@@ -1,6 +1,6 @@
 {
   "name": "open-y-subprojects/openy_demo_content",
-  "description": "Demo content for Open Y distrubution.",
+  "description": "Demo content for Open Y distribution.",
   "type": "drupal-module",
   "require": {
     "ymcatwincities/openy": "^8.2.7 || ^9"
