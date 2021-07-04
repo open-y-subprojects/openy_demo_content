@@ -3,7 +3,8 @@
   "description": "Demo content for Open Y distribution.",
   "type": "drupal-module",
   "require": {
-    "ymcatwincities/openy": "*"
+    "ymcatwincities/openy": "*",
+    "open-y-subprojects/openy_content_core": "*"
   },
   "license": "GPL-2.0+",
   "minimum-stability": "dev"
