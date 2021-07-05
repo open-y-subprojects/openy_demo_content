@@ -10,3 +10,4 @@ dependencies:
   - migrate_tools:migrate_tools
   - openy_location:openy_location
   - drupal:taxonomy
+  - openy_demo_taxonomy:openy_demo_taxonomy
