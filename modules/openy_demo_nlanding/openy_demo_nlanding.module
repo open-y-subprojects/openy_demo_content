@@ -371,7 +371,7 @@ function openy_demo_nlanding_af_pages() {
     'title' => 'Swimming Lessons at the YMCA',
     'link' => ['uri' => 'entity:node/' . $nid],
     'menu_name' => 'main',
-    'parent' => 'menu_link_content:' . $parent_menu_link->uuid(),
+    'parent' => parent_menu_link ? 'menu_link_content:' . $parent_menu_link->uuid() : '',
     'expanded' => TRUE,
   ]);
   $menu_link->save();
