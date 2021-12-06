@@ -16,8 +16,8 @@ source:
     -
       id: sports_classes_and_workshops_youth_fitness_challenge
       parent_id: sports_classes_and_workshops_youth_fitness_challenge
-      time: 12:00:00 pm
-      time_end: 1:00:00 pm
+      time: 1:00:00 pm
+      time_end: 2:00:00 pm
     -
       id: sports_classes_and_workshops_youth_homezone
       parent_id: sports_classes_and_workshops_youth_homezone

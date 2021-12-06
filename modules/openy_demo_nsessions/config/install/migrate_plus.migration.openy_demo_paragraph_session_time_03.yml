@@ -17,7 +17,7 @@ source:
       id: swim_lessons_adult_begin_2
       parent_id: swim_lessons_adult_begin_2
       time: 2:00:00 pm
-      time_end: 01:00:00 pm
+      time_end: 3:00:00 pm
     -
       id: swim_lessons_parent_child_a_2
       parent_id: swim_lessons_parent_child_a_2
