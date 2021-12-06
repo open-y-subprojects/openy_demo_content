@@ -19,7 +19,7 @@ source:
       field_link: 'https://instagram.com'
       field_platform: instagram
       field_post: "<p>Visit the Open Y Distribution site.</p>\n"
-      field_posted: '15/05/2018 12:00'
+      field_posted: '2021-12-11T15:13:30'
     -
       id: 2
       title: 'Post 2'
@@ -27,7 +27,7 @@ source:
       field_link: 'https://instagram.com'
       field_platform: instagram
       field_post: "<p>Post 2</p>\n"
-      field_posted: '15/05/2018 12:00'
+      field_posted: '2021-12-11T15:13:30'
     -
       id: 3
       title: 'Post 3'
@@ -35,7 +35,7 @@ source:
       field_link: 'https://instagram.com'
       field_platform: instagram
       field_post: "<p>Post 3</p>\n"
-      field_posted: '15/05/2018 12:00'
+      field_posted: '2021-12-11T15:13:30'
     -
       id: 4
       title: 'Post 4'
@@ -43,7 +43,7 @@ source:
       field_link: 'https://instagram.com'
       field_platform: instagram
       field_post: "<p>Post 4</p>\n"
-      field_posted: '15/05/2018 12:00'
+      field_posted: '2021-12-11T15:13:30'
     -
       id: 5
       title: 'Post 5'
@@ -51,7 +51,7 @@ source:
       field_link: 'https://instagram.com'
       field_platform: instagram
       field_post: "<p>Post 5</p>\n"
-      field_posted: '15/05/2018 12:00'
+      field_posted: '2021-12-11T15:13:30'
   ids:
     id:
       type: string
@@ -60,9 +60,6 @@ process:
     plugin: default_value
     source: language
     default_value: en
-  type:
-    plugin: default_value
-    default_value: social_post
   title:
     plugin: get
     source: title
@@ -75,9 +72,7 @@ process:
   field_platform:
     plugin: get
     source: field_platform
-  field_posted:
-    plugin: get
-    default_value: field_posted
+  field_posted: field_posted
   status:
     plugin: default_value
     default_value: 1
@@ -95,6 +90,7 @@ process:
     default_value: full_html
 destination:
   plugin: 'entity:node'
+  default_bundle: social_post
 migration_dependencies:
   required: {  }
   optional: {  }
