@@ -27,7 +27,7 @@ source:
       administrative_area: WA
       postal_code: 98136
       email: info@example.com
-      phone: 9999999999
+      phone: '(555) 555-1234'
       latitude: 47.521050
       longitude: -122.387003
       content_ids:
@@ -47,7 +47,7 @@ source:
       administrative_area: WA
       postal_code: 98012
       email: info@example.com
-      phone: 9999999999
+      phone: '(555) 555-1234'
       latitude: 47.819456
       longitude: -122.179396
       content_ids:
@@ -67,7 +67,7 @@ source:
       administrative_area: WA
       postal_code: 98002
       email: info@example.com
-      phone: 9999999999
+      phone: '(555) 555-1234'
       latitude: 47.308220
       longitude: -122.222254
       content_ids:
@@ -87,7 +87,7 @@ source:
       administrative_area: WA
       postal_code: 98115
       email: info@example.com
-      phone: 9999999999
+      phone: '(555) 555-1234'
       latitude: 47.682809
       longitude: -122.259596
       content_ids:
@@ -107,7 +107,7 @@ source:
       administrative_area: WA
       postal_code: 98108
       email: info@example.com
-      phone: 9999999999
+      phone: '(555) 555-1234'
       latitude: 47.558139
       longitude: -122.318917
       content_ids:
