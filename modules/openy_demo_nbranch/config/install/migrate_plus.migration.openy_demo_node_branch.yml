@@ -29,7 +29,7 @@ source:
       administrative_area: TX
       postal_code: 77085
       email: info@example.com
-      phone: 9999999999
+      phone: '(555) 555-1234'
       latitude: 29.627932
       longitude: -95.476388
       area: 1
@@ -75,7 +75,7 @@ source:
       administrative_area: TX
       postal_code: 77002
       email: info@example.com
-      phone: 9999999999
+      phone: '(555) 555-1234'
       latitude: 29.75228
       longitude: -95.370483
       area: 2
@@ -117,7 +117,7 @@ source:
       administrative_area: TX
       postal_code: 77011
       email: info@example.com
-      phone: 9999999999
+      phone: '(555) 555-1234'
       latitude: 29.73641
       longitude: -95.293998
       area: 3
@@ -166,7 +166,7 @@ source:
       administrative_area: TX
       postal_code: 77511
       email: info@example.com
-      phone: 9999999999
+      phone: '(555) 555-1234'
       latitude: 29.39628
       longitude: -95.246491
       area: 4
