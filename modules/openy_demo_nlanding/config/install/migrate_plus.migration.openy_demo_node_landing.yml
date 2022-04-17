@@ -157,17 +157,6 @@ source:
         -
           content_id: popup_schedules
     -
-      id: group_schedules
-      title: 'Group Schedules'
-      alias: '/schedules/group-schedules'
-      layout: one_column
-      header_content_ids:
-        -
-          header_content_id: group_schedules
-      content_ids:
-        -
-          content_id: group_schedules_groupex_pro
-    -
       id: group_schedules_embedded
       title: 'Group Schedules (Embedded)'
       alias: '/schedules/group-schedules-embedded'
@@ -291,7 +280,6 @@ process:
           - openy_demo_lp_paragraph_schedule_search_list
           - openy_demo_landing_paragraph_branches_popup_all
           - openy_demo_lp_paragraph_embedded_groupexpro_schedule
-          - openy_demo_lp_paragraph_group_schedules
           - openy_demo_lp_paragraph_all_amenities
         source: content_id
       target_revision_id:
@@ -310,7 +298,6 @@ process:
           - openy_demo_lp_paragraph_schedule_search_list
           - openy_demo_landing_paragraph_branches_popup_all
           - openy_demo_lp_paragraph_embedded_groupexpro_schedule
-          - openy_demo_lp_paragraph_group_schedules
           - openy_demo_lp_paragraph_all_amenities
         source: content_id
   field_sidebar_content:
@@ -350,7 +337,6 @@ migration_dependencies:
     - openy_demo_lp_paragraph_schedule_search_list
     - openy_demo_landing_paragraph_branches_popup_all
     - openy_demo_lp_paragraph_embedded_groupexpro_schedule
-    - openy_demo_lp_paragraph_group_schedules
     - openy_demo_lp_paragraph_microsites_menu
     - openy_demo_lp_paragraph_all_amenities
     - openy_demo_lp_paragraph_loc_by_amnts

@@ -42,11 +42,6 @@ source:
         Swimmers who develop a love of the water and want further instruction can progress to the YMCA of Greater Brandywine's competitive swim teams.
         </p>
     -
-      id: group_schedules
-      parent_id: group_schedules
-      headline: 'Group Schedules'
-      color: 14
-    -
       id: group_schedules_embedded
       parent_id: group_schedules_embedded
       headline: 'Group Schedules (Embedded)'
