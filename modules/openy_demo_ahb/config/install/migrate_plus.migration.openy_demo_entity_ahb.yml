@@ -280,6 +280,14 @@ source:
       field_ahb_video: ''
       field_ahb_pages: '/admin/openy/development/upgrade-log/dashboard'
       field_ahb_visibility: 'include'
+    -
+      id: 32
+      field_ahb_title: 'Open Y: Media Bulk Upload'
+      field_ahb_description: |
+        <p>Please read the documentation about Media Bulk Upload module installation and configuration <a href="https://ds-docs.y.org/docs/user-documentation/media/#bulk-upload">here</a>
+      field_ahb_video: ''
+      field_ahb_pages: "/admin/content/browser\n/admin/content/media"
+      field_ahb_visibility: 'include'
   ids:
     id:
       type: integer
