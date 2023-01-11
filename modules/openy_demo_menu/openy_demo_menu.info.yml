@@ -1,9 +1,9 @@
-name: Open Y Demo Menu
+name: YMCA Website Services Demo Menu
 description: Stores migration group for demo menu migrations.
 type: module
 core_version_requirement: ^8 || ^9
 version: 8.x-1.0
-package: Open Y
+package: YMCA Website Services
 dependencies:
   - drupal:migrate
   - migrate_plus:migrate_plus

@@ -14,7 +14,7 @@ source:
   data_rows:
     -
       id: homepage
-      title: 'Open Y'
+      title: 'YMCA Website Services'
       content_ids:
         -
           content_id: home_alt_simple

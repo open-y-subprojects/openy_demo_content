@@ -18,12 +18,12 @@ source:
     -
       id: homepage_banner
       parent_id: homepage
-      headline: 'Explore the Open Y!'
+      headline: 'Explore the YMCA Website Services!'
       color: 14
       image: homepage_banner
       description: |
         <p>
-        Learn how to use the Open Y content management system to deliver
+        Learn how to use the YMCA Website Services content management system to deliver
         brand-compliant digital experiences.
         <br/><br/>
         <i>* please login as admin user</i>

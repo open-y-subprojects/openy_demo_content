@@ -1,9 +1,9 @@
-name: 'Open Y Demo Node Landing Page'
+name: 'YMCA Website Services Demo Node Landing Page'
 description: Stores migrations to import demo landing pages.
 type: module
 core_version_requirement: ^8 || ^9
 version: 8.x-1.0
-package: Open Y
+package: YMCA Website Services
 dependencies:
   - drupal:migrate
   - migrate_plus:migrate_plus

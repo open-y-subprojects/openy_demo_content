@@ -1,8 +1,8 @@
-name: Open Y Demo Webform
+name: YMCA Website Services Demo Webform
 description: Provides a demo webform.
 type: module
 core_version_requirement: ^8 || ^9
-package: Open Y
+package: YMCA Website Services
 version: 8.x-1.0
 dependencies:
   - webform:webform

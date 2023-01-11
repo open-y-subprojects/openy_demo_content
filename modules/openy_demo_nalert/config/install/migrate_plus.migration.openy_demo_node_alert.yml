@@ -15,93 +15,93 @@ source:
   data_rows:
     -
       id: 1
-      title: 'Open Y Distribution'
+      title: 'YMCA Website Services Distribution'
       description: |
-        <p>Visit the Open Y Distribution site.</p>
+        <p>Visit the YMCA Website Services Distribution site.</p>
       background_color: 12
       text_color: 2
       icon_color: 2
       placement: 'header'
       link_url: http://www.openymca.org
-      link_text: 'Open Y Distribution'
+      link_text: 'YMCA Website Services Distribution'
     -
       id: 2
-      title: 'About Open Y'
+      title: 'About YMCA Website Services'
       description: |
-        <p>Learn more about Open Y.</p>
+        <p>Learn more about YMCA Website Services.</p>
       background_color: 6
       text_color: 1
       icon_color: 4
       placement: 'header'
       link_url: http://www.openymca.org/about
-      link_text: 'About Open Y'
+      link_text: 'About YMCA Website Services'
     -
       id: 3
-      title: 'Open Y Features'
+      title: 'YMCA Website Services Features'
       description: |
-        <p>See everything Open Y has to offer.</p>
+        <p>See everything YMCA Website Services has to offer.</p>
       background_color: 4
       text_color: 2
       icon_color: 2
       placement: 'header'
       link_url: http://www.openymca.org/features
-      link_text: 'Open Y Features'
+      link_text: 'YMCA Website Services Features'
     -
       id: 4
-      title: 'Open Y FAQ'
+      title: 'YMCA Website Services FAQ'
       description: |
-        <p>Have questions about Open Y? Visit the FAQ.</p>
+        <p>Have questions about YMCA Website Services? Visit the FAQ.</p>
       background_color: 3
       text_color: 2
       icon_color: 2
       placement: 'footer'
       link_url: http://www.openymca.org/faq
-      link_text: 'Open Y FAQ'
+      link_text: 'YMCA Website Services FAQ'
     -
       id: 5
-      title: 'Open Y Community'
+      title: 'YMCA Website Services Community'
       description: |
-        <p>Get more involved with the Open Y community.</p>
+        <p>Get more involved with the YMCA Website Services community.</p>
       background_color: 15
       text_color: 2
       icon_color: 2
       placement: 'footer'
       link_url: http://www.openymca.org/community
-      link_text: 'Open Y Community'
+      link_text: 'YMCA Website Services Community'
     -
       id: 6
-      title: 'Open Y Partners'
+      title: 'YMCA Website Services Partners'
       description: |
-        <p>See who Open Y is working with on our partners page.</p>
+        <p>See who YMCA Website Services is working with on our partners page.</p>
       background_color: 11
       text_color: 2
       icon_color: 2
       placement: 'footer'
       link_url: http://www.openymca.org/partners
-      link_text: 'Open Y Partners'
+      link_text: 'YMCA Website Services Partners'
     -
       id: 7
-      title: 'Be a part of Open Y'
+      title: 'Be a part of YMCA Website Services'
       description: |
-        <p>Open Y is growing, be a part of it's success!</p>
+        <p>YMCA Website Services is growing, be a part of it's success!</p>
       background_color: 7
       text_color: 1
       icon_color: 2
       placement: 'header'
       link_url: http://www.openymca.org
-      link_text: 'Build Open Y'
+      link_text: 'Build YMCA Website Services'
       reference_id: blog
     -
       id: 8
-      title: 'Open Y the foundation you need'
+      title: 'YMCA Website Services the foundation you need'
       description: |
-        <p>Open Y is the site foundation you need!</p>
+        <p>YMCA Website Services is the site foundation you need!</p>
       background_color: 7
       text_color: 1
       icon_color: 2
       placement: 'footer'
       link_url: http://www.openymca.org
-      link_text: 'Get Open Y Now'
+      link_text: 'Get YMCA Website Services Now'
       reference_id: blog
   ids:
     id:

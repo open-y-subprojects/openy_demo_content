@@ -18,7 +18,7 @@ source:
     -
       id: news_small_banner
       parent_id: news
-      headline: 'Open Y News'
+      headline: 'YMCA Website Services News'
       color: 17
   ids:
     id:

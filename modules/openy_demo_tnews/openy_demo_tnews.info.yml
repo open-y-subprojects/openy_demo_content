@@ -1,9 +1,9 @@
-name: Open Y Demo Taxonomy News Category
+name: YMCA Website Services Demo Taxonomy News Category
 description: Stores migrations to import demo news category taxonomy terms.
 type: module
 core_version_requirement: ^8 || ^9
 version: 8.x-1.0
-package: Open Y
+package: YMCA Website Services
 dependencies:
   - drupal:migrate
   - migrate_plus:migrate_plus

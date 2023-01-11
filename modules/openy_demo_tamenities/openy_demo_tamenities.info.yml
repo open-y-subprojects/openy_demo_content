@@ -1,9 +1,9 @@
-name: Open Y Demo Taxonomy Amenities
+name: YMCA Website Services Demo Taxonomy Amenities
 description: Stores migrations to import demo amenities taxonomy terms.
 type: module
 core_version_requirement: ^8 || ^9
 version: 8.x-1.0
-package: Open Y
+package: YMCA Website Services
 dependencies:
   - drupal:migrate
   - migrate_plus:migrate_plus
