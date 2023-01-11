@@ -78,7 +78,7 @@ source:
       id: 8
       field_ahb_title: 'YMCA Website Services: Demo Content'
       field_ahb_description: |
-        <p>Part of the installation process. See notes in "YMCA Website Services Install Tutorial for Tech Novices" for placement. Could be here <a href="https://sandbox.openymca.org/admin/structure/migrate">https://sandbox.openymca.org/admin/structure/migrate</a></p>
+        <p>Part of the installation process. See notes in "YMCA Website Services Install Tutorial for Tech Novices" for placement. Could be here <a href="https://sandbox-carnation-std.y.org/admin/structure/migrate">https://sandbox-carnation-std.y.org/admin/structure/migrate</a></p>
       field_ahb_video: 'https://www.youtube.com/watch?v=GcwNW3TDnjg'
       field_ahb_pages: '/admin/structure/migrate'
       field_ahb_visibility: 'include'
@@ -86,7 +86,7 @@ source:
       id: 9
       field_ahb_title: 'YMCA Website Services: Data Layer'
       field_ahb_description: |
-        <p>Covers Chrome Developer Tools to explore data layer. Possible relation to <a href="/content">/content</a> types, but perhaps too micro of a topic to place as a Help box in this section. <a href="https://sandbox.openymca.org/admin/structure/types">https://sandbox.openymca.org/admin/structure/types</a> (if anywhere)</p>
+        <p>Covers Chrome Developer Tools to explore data layer. Possible relation to <a href="/content">/content</a> types, but perhaps too micro of a topic to place as a Help box in this section. <a href="https://sandbox-carnation-std.y.org/admin/structure/types">https://sandbox-carnation-std.y.org/admin/structure/types</a> (if anywhere)</p>
       field_ahb_video: 'https://www.youtube.com/watch?v=EDibwoQgIUY'
       field_ahb_pages: '/admin/structure/types'
       field_ahb_visibility: 'include'
@@ -214,7 +214,7 @@ source:
       id: 25
       field_ahb_title: 'YMCA Website Services: Footer icons & copyright'
       field_ahb_description: |
-        <p>This is footer social icons and copyright. While it's easy enough to edit the blocks directly, help info could be placed either as a second link in <a href="/structure/menu">/structure/menu</a> above and/or here <a href="https://sandbox.openymca.org/admin/structure/block/block-content">https://sandbox.openymca.org/admin/structure/block/block-content</a></p>
+        <p>This is footer social icons and copyright. While it's easy enough to edit the blocks directly, help info could be placed either as a second link in <a href="/structure/menu">/structure/menu</a> above and/or here <a href="https://sandbox-carnation-std.y.org/admin/structure/block/block-content">https://sandbox-carnation-std.y.org/admin/structure/block/block-content</a></p>
       field_ahb_video: 'https://www.youtube.com/watch?v=BZMDljgK9A8'
       field_ahb_pages: '/admin/structure/block/block-content'
       field_ahb_visibility: 'include'
