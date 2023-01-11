@@ -18,7 +18,7 @@ source:
       id: 1
       field_ahb_title: 'All'
       field_ahb_description: |
-        <p>There is an existing FAQ question that directs people to the YouTube channel. An additional line of content could be added here to indicate that training videos have also been added inline in the admin, where applicable. <a href="http://www.openymca.org/faq">http://www.openymca.org/faq</a>
+        <p>There is an existing FAQ question that directs people to the YouTube channel. An additional line of content could be added here to indicate that training videos have also been added inline in the admin, where applicable. <a href="https://ds.ymca.org/faq">https://ds.ymca.org/faq</a>
            ARE THERE ANY TUTORIALS OR VIDEOS ON HOW TO USE AND SETUP YMCA Website Services?
         </p>
       field_ahb_video: 'https://www.youtube.com/channel/UC4hp3K9JFptqPZyNjJLvkJg/videos'
@@ -28,7 +28,7 @@ source:
       id: 2
       field_ahb_title: 'YMCA Website Services Install Tutorial for Tech Novices'
       field_ahb_description: |
-        <p>Video includes hosting setup instructions with DigitalOcean, should be public link outside of Admin console before Drupal site is setup. There is an existing FAQ question that directs people to the general YouTube channel. An additional line of content and link to this specific setup video could be added here. <a href="http://www.openymca.org/faq">http://www.openymca.org/faq</a> ARE THERE ANY TUTORIALS OR VIDEOS ON HOW TO USE AND SETUP YMCA Website Services?
+        <p>Video includes hosting setup instructions with DigitalOcean, should be public link outside of Admin console before Drupal site is setup. There is an existing FAQ question that directs people to the general YouTube channel. An additional line of content and link to this specific setup video could be added here. <a href="https://ds.ymca.org/faq">https://ds.ymca.org/faq</a> ARE THERE ANY TUTORIALS OR VIDEOS ON HOW TO USE AND SETUP YMCA Website Services?
            If people need a refresher, the Help box could possibly be located in the <a href="/admin/config">/admin/config</a> section
         </p>
       field_ahb_video: 'https://www.youtube.com/watch?v=O3BkmL2MpKU'
@@ -78,7 +78,7 @@ source:
       id: 8
       field_ahb_title: 'YMCA Website Services: Demo Content'
       field_ahb_description: |
-        <p>Part of the installation process. See notes in "YMCA Website Services Install Tutorial for Tech Novices" for placement. Could be here <a href="http://sandbox.openymca.org/admin/structure/migrate">http://sandbox.openymca.org/admin/structure/migrate</a></p>
+        <p>Part of the installation process. See notes in "YMCA Website Services Install Tutorial for Tech Novices" for placement. Could be here <a href="https://sandbox.openymca.org/admin/structure/migrate">https://sandbox.openymca.org/admin/structure/migrate</a></p>
       field_ahb_video: 'https://www.youtube.com/watch?v=GcwNW3TDnjg'
       field_ahb_pages: '/admin/structure/migrate'
       field_ahb_visibility: 'include'
@@ -86,7 +86,7 @@ source:
       id: 9
       field_ahb_title: 'YMCA Website Services: Data Layer'
       field_ahb_description: |
-        <p>Covers Chrome Developer Tools to explore data layer. Possible relation to <a href="/content">/content</a> types, but perhaps too micro of a topic to place as a Help box in this section. <a href="http://sandbox.openymca.org/admin/structure/types">http://sandbox.openymca.org/admin/structure/types</a> (if anywhere)</p>
+        <p>Covers Chrome Developer Tools to explore data layer. Possible relation to <a href="/content">/content</a> types, but perhaps too micro of a topic to place as a Help box in this section. <a href="https://sandbox.openymca.org/admin/structure/types">https://sandbox.openymca.org/admin/structure/types</a> (if anywhere)</p>
       field_ahb_video: 'https://www.youtube.com/watch?v=EDibwoQgIUY'
       field_ahb_pages: '/admin/structure/types'
       field_ahb_visibility: 'include'
@@ -214,7 +214,7 @@ source:
       id: 25
       field_ahb_title: 'YMCA Website Services: Footer icons & copyright'
       field_ahb_description: |
-        <p>This is footer social icons and copyright. While it's easy enough to edit the blocks directly, help info could be placed either as a second link in <a href="/structure/menu">/structure/menu</a> above and/or here <a href="http://sandbox.openymca.org/admin/structure/block/block-content">http://sandbox.openymca.org/admin/structure/block/block-content</a></p>
+        <p>This is footer social icons and copyright. While it's easy enough to edit the blocks directly, help info could be placed either as a second link in <a href="/structure/menu">/structure/menu</a> above and/or here <a href="https://sandbox.openymca.org/admin/structure/block/block-content">https://sandbox.openymca.org/admin/structure/block/block-content</a></p>
       field_ahb_video: 'https://www.youtube.com/watch?v=BZMDljgK9A8'
       field_ahb_pages: '/admin/structure/block/block-content'
       field_ahb_visibility: 'include'

@@ -263,7 +263,7 @@ source:
                 <div class="field-category-image"><div class="media media-image view-mode-node-program-subcategory-teaser">
                 <div class="blazy field-media-image" data-blazy="">
                 <div style="padding-bottom: 83.33%" class="media media--blazy media--loading media--ratio media--ratio--enforced media--image">
-                <img height="300" width="360" class="b-lazy media__image media__element" data-src="http://openy-af.docksal/sites/default/files/styles/node_program_subcategory_teaser/public/swim_lessons.jpg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" typeof="foaf:Image" />
+                <img height="300" width="360" class="b-lazy media__image media__element" data-src="https://openy-af.docksal/sites/default/files/styles/node_program_subcategory_teaser/public/swim_lessons.jpg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" typeof="foaf:Image" />
               </div>
           </div>
             </div>

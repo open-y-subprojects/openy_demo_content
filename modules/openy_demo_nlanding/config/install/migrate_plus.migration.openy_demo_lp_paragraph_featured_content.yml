@@ -22,7 +22,7 @@ source:
         improving health and well-being, and giving back and supporting our
         neighbors, your membership will not just bring about meaningful change
         in yourself, but also in your community.</p>
-      link_uri: 'http://www.openymca.org/features'
+      link_uri: 'https://ds.ymca.org/features'
       link_text: 'EXPLORE ALL MEMBER BENEFITS'
       grid_style: 4
       column_descriptions:
@@ -106,7 +106,7 @@ process:
   field_prgf_link/title:
      plugin: default_value
      source: link_text
-     default_value: 'http://www.openymca.org'
+     default_value: 'https://www.ds.ymca.org'
   field_prgf_fc_clm_description:
     -
       plugin: sub_process
