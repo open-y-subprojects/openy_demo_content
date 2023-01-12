@@ -22,7 +22,7 @@ source:
       text_color: 2
       icon_color: 2
       placement: 'header'
-      link_url: https://www.ds.ymca.org
+      link_url: https://ds.ymca.org
       link_text: 'YMCA Website Services Distribution'
     -
       id: 2
@@ -88,7 +88,7 @@ source:
       text_color: 1
       icon_color: 2
       placement: 'header'
-      link_url: https://www.ds.ymca.org
+      link_url: https://ds.ymca.org
       link_text: 'Build YMCA Website Services'
       reference_id: blog
     -
@@ -100,7 +100,7 @@ source:
       text_color: 1
       icon_color: 2
       placement: 'footer'
-      link_url: https://www.ds.ymca.org
+      link_url: https://ds.ymca.org
       link_text: 'Get YMCA Website Services Now'
       reference_id: blog
   ids:
