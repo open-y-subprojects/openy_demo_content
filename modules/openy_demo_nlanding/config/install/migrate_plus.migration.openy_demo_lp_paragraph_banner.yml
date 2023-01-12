@@ -18,7 +18,7 @@ source:
     -
       id: homepage_banner
       parent_id: homepage
-      headline: 'Explore the YMCA Website Services!'
+      headline: 'Explore YMCA Website Services!'
       color: 14
       image: homepage_banner
       description: |
