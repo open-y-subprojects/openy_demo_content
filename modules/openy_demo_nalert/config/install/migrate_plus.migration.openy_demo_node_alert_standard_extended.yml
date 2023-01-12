@@ -22,7 +22,7 @@ source:
       text_color: 2
       icon_color: 2
       placement: 'header'
-      link_url: https://www.ds.ymca.org
+      link_url: https://ds.ymca.org
       link_text: 'YMCA Website Services Distribution'
     -
       id: 2

@@ -106,7 +106,7 @@ process:
   field_prgf_link/title:
      plugin: default_value
      source: link_text
-     default_value: 'https://www.ds.ymca.org'
+     default_value: 'https://ds.ymca.org'
   field_prgf_fc_clm_description:
     -
       plugin: sub_process
