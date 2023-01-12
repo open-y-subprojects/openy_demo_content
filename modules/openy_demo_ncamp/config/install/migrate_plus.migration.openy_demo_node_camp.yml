@@ -34,7 +34,7 @@ source:
           uri: 'internal:/camps/camp-colman/about'
           title: About
         -
-          uri: 'http://openymca.org'
+          uri: 'https://ds.ymca.org'
           title: Register
       header_content_ids:
         -
@@ -65,7 +65,7 @@ source:
           uri: 'internal:/camps/camp-orkila/about'
           title: About
         -
-          uri: 'http://openymca.org'
+          uri: 'https://ds.ymca.org'
           title: Register
       header_content_ids:
         -
@@ -96,7 +96,7 @@ source:
           uri: 'internal:/camps/camp-terry/about'
           title: About
         -
-          uri: 'http://openymca.org'
+          uri: 'https://ds.ymca.org'
           title: Register
       header_content_ids:
         -

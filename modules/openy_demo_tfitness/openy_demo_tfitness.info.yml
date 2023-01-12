@@ -1,9 +1,9 @@
-name: Open Y Demo Taxonomy Fitness Category
+name: YMCA Website Services Demo Taxonomy Fitness Category
 description: Stores migrations to import demo fitness category taxonomy terms.
 type: module
-core_version_requirement: ^8 || ^9
-version: 8.x-1.0-rc1
-package: Open Y (Experimental)
+core_version_requirement: ^8.7.7 || ^9 || ^10
+version: 2.0.1
+package: YMCA Website Services (Experimental)
 dependencies:
   - drupal:migrate
   - migrate_plus:migrate_plus

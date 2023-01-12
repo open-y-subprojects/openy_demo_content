@@ -215,7 +215,7 @@ process:
   field_mbrshp_monthly_rate: monthly_rate
   field_mbrshp_link/uri:
     plugin: default_value
-    default_value: 'http://openymca.org'
+    default_value: 'https://ds.ymca.org'
   field_mbrshp_link/title:
     plugin: default_value
     default_value: 'Select'

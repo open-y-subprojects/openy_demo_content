@@ -30,7 +30,7 @@ source:
       availability: 5
       price_member: 10
       price_nonmember: 15
-      reg_uri: 'http://www.openymca.org'
+      reg_uri: 'https://ds.ymca.org'
       reg_title: 'Register Now'
       activity_type: ''
     -
@@ -50,7 +50,7 @@ source:
       availability: 5
       price_member: 10
       price_nonmember: 15
-      reg_uri: 'http://www.openymca.org'
+      reg_uri: 'https://ds.ymca.org'
       reg_title: 'Register Now'
       activity_type: ''
     -
@@ -70,7 +70,7 @@ source:
       availability: 5
       price_member: 10
       price_nonmember: 15
-      reg_uri: 'http://www.openymca.org'
+      reg_uri: 'https://ds.ymca.org'
       reg_title: 'Register Now'
       activity_type: ''
     -
@@ -89,7 +89,7 @@ source:
       availability: 5
       price_member: 10
       price_nonmember: 15
-      reg_uri: 'http://www.openymca.org'
+      reg_uri: 'https://ds.ymca.org'
       reg_title: 'Register Now'
       activity_type: ''
     -
@@ -108,7 +108,7 @@ source:
       availability: 8
       price_member: 32
       price_nonmember: 65
-      reg_uri: 'http://www.openymca.org'
+      reg_uri: 'https://ds.ymca.org'
       reg_title: 'Register Now'
       activity_type: ''
     -
@@ -124,7 +124,7 @@ source:
       ticket_required: false
       in_membership: false
       age_min: 216
-      reg_uri: 'http://www.openymca.org'
+      reg_uri: 'https://ds.ymca.org'
       reg_title: 'Register Now'
       activity_type: ''
     -
@@ -140,7 +140,7 @@ source:
       ticket_required: false
       in_membership: false
       age_min: 216
-      reg_uri: 'http://www.openymca.org'
+      reg_uri: 'https://ds.ymca.org'
       reg_title: 'Register Now'
       activity_type: ''
     -
@@ -156,7 +156,7 @@ source:
       ticket_required: false
       in_membership: false
       age_min: 216
-      reg_uri: 'http://www.openymca.org'
+      reg_uri: 'https://ds.ymca.org'
       reg_title: 'Register Now'
       activity_type: ''
     -
@@ -176,7 +176,7 @@ source:
       availability: 8
       price_member: 32
       price_nonmember: 65
-      reg_uri: 'http://www.openymca.org'
+      reg_uri: 'https://ds.ymca.org'
       reg_title: 'Register Now'
       activity_type: 'small group training'
     -
@@ -214,7 +214,7 @@ source:
       availability: 8
       price_member: 32
       price_nonmember: 65
-      reg_uri: 'http://www.openymca.org'
+      reg_uri: 'https://ds.ymca.org'
       reg_title: 'Register Now'
       activity_type: ''
     -
@@ -234,7 +234,7 @@ source:
       availability: 8
       price_member: 32
       price_nonmember: 65
-      reg_uri: 'http://www.openymca.org'
+      reg_uri: 'https://ds.ymca.org'
       reg_title: 'Register Now'
       activity_type: ''
     -
@@ -254,7 +254,7 @@ source:
       availability: 8
       price_member: 32
       price_nonmember: 65
-      reg_uri: 'http://www.openymca.org'
+      reg_uri: 'https://ds.ymca.org'
       reg_title: 'Register Now'
       activity_type: ''
     -
@@ -274,7 +274,7 @@ source:
       availability: 8
       price_member: 32
       price_nonmember: 65
-      reg_uri: 'http://www.openymca.org'
+      reg_uri: 'https://ds.ymca.org'
       reg_title: 'Register Now'
       activity_type: personal
     -
@@ -294,7 +294,7 @@ source:
       availability: 8
       price_member: 32
       price_nonmember: 65
-      reg_uri: 'http://www.openymca.org'
+      reg_uri: 'https://ds.ymca.org'
       reg_title: 'Register Now'
       activity_type: ''
     -
@@ -313,7 +313,7 @@ source:
       availability: 8
       price_member: 32
       price_nonmember: 65
-      reg_uri: 'http://www.openymca.org'
+      reg_uri: 'https://ds.ymca.org'
       reg_title: 'Register Now'
       activity_type: ''
     -
@@ -332,7 +332,7 @@ source:
       availability: 8
       price_member: 32
       price_nonmember: 65
-      reg_uri: 'http://www.openymca.org'
+      reg_uri: 'https://ds.ymca.org'
       reg_title: 'Register Now'
       activity_type: ''
     -
@@ -351,7 +351,7 @@ source:
       availability: 8
       price_member: 32
       price_nonmember: 65
-      reg_uri: 'http://www.openymca.org'
+      reg_uri: 'https://ds.ymca.org'
       reg_title: 'Register Now'
       activity_type: ''
     -
@@ -370,7 +370,7 @@ source:
       availability: 8
       price_member: 32
       price_nonmember: 65
-      reg_uri: 'http://www.openymca.org'
+      reg_uri: 'https://ds.ymca.org'
       reg_title: 'Register Now'
       activity_type: ''
     -
@@ -389,7 +389,7 @@ source:
       availability: 8
       price_member: 32
       price_nonmember: 65
-      reg_uri: 'http://www.openymca.org'
+      reg_uri: 'https://ds.ymca.org'
       reg_title: 'Register Now'
     -
       id: climbing_adult_parent_child_oct_2
@@ -407,7 +407,7 @@ source:
       availability: 8
       price_member: 32
       price_nonmember: 65
-      reg_uri: 'http://www.openymca.org'
+      reg_uri: 'https://ds.ymca.org'
       reg_title: 'Register Now'
       activity_type: ''
     -
@@ -426,7 +426,7 @@ source:
       availability: 0
       price_member: 32
       price_nonmember: 65
-      reg_uri: 'http://www.openymca.org'
+      reg_uri: 'https://ds.ymca.org'
       reg_title: 'Register Now'
       activity_type: 'small group training'
     -
@@ -445,7 +445,7 @@ source:
       availability: 0
       price_member: 32
       price_nonmember: 65
-      reg_uri: 'http://www.openymca.org'
+      reg_uri: 'https://ds.ymca.org'
       reg_title: 'Register Now'
       activity_type: 'small group training'
     -
@@ -464,7 +464,7 @@ source:
       availability: 0
       price_member: 32
       price_nonmember: 65
-      reg_uri: 'http://www.openymca.org'
+      reg_uri: 'https://ds.ymca.org'
       reg_title: 'Register Now'
       activity_type: 'small group training'
     -
@@ -483,7 +483,7 @@ source:
       availability: 0
       price_member: 32
       price_nonmember: 65
-      reg_uri: 'http://www.openymca.org'
+      reg_uri: 'https://ds.ymca.org'
       reg_title: 'Register Now'
       activity_type: 'small group training'
     -
@@ -502,7 +502,7 @@ source:
       availability: 0
       price_member: 32
       price_nonmember: 65
-      reg_uri: 'http://www.openymca.org'
+      reg_uri: 'https://ds.ymca.org'
       reg_title: 'Register Now'
       activity_type: ''
     -
@@ -521,7 +521,7 @@ source:
       availability: 0
       price_member: 32
       price_nonmember: 65
-      reg_uri: 'http://www.openymca.org'
+      reg_uri: 'https://ds.ymca.org'
       reg_title: 'Register Now'
       activity_type: ''
     -
@@ -541,7 +541,7 @@ source:
       availability: 0
       price_member: 32
       price_nonmember: 65
-      reg_uri: 'http://www.openymca.org'
+      reg_uri: 'https://ds.ymca.org'
       reg_title: 'Register Now'
       activity_type: ''
     -
@@ -561,7 +561,7 @@ source:
       availability: 0
       price_member: 32
       price_nonmember: 65
-      reg_uri: 'http://www.openymca.org'
+      reg_uri: 'https://ds.ymca.org'
       reg_title: 'Register Now'
       activity_type: ''
     -
@@ -581,7 +581,7 @@ source:
       availability: 0
       price_member: 32
       price_nonmember: 65
-      reg_uri: 'http://www.openymca.org'
+      reg_uri: 'https://ds.ymca.org'
       reg_title: 'Register Now'
       activity_type: ''
     -
@@ -601,7 +601,7 @@ source:
       availability: 0
       price_member: 32
       price_nonmember: 65
-      reg_uri: 'http://www.openymca.org'
+      reg_uri: 'https://ds.ymca.org'
       reg_title: 'Register Now'
       activity_type: ''
     -
@@ -621,7 +621,7 @@ source:
       availability: 0
       price_member: 32
       price_nonmember: 65
-      reg_uri: 'http://www.openymca.org'
+      reg_uri: 'https://ds.ymca.org'
       reg_title: 'Register Now'
       activity_type: ''
     -
@@ -641,7 +641,7 @@ source:
       availability: 0
       price_member: 32
       price_nonmember: 65
-      reg_uri: 'http://www.openymca.org'
+      reg_uri: 'https://ds.ymca.org'
       reg_title: 'Register Now'
       activity_type: ''
     -
@@ -661,7 +661,7 @@ source:
       availability: 0
       price_member: 32
       price_nonmember: 65
-      reg_uri: 'http://www.openymca.org'
+      reg_uri: 'https://ds.ymca.org'
       reg_title: 'Register Now'
       activity_type: ''
     -
@@ -681,7 +681,7 @@ source:
       availability: 0
       price_member: 32
       price_nonmember: 65
-      reg_uri: 'http://www.openymca.org'
+      reg_uri: 'https://ds.ymca.org'
       reg_title: 'Register Now'
       activity_type: ''
     -
@@ -701,7 +701,7 @@ source:
       availability: 0
       price_member: 32
       price_nonmember: 65
-      reg_uri: 'http://www.openymca.org'
+      reg_uri: 'https://ds.ymca.org'
       reg_title: 'Register Now'
       activity_type: ''
     -
@@ -721,7 +721,7 @@ source:
       availability: 0
       price_member: 32
       price_nonmember: 65
-      reg_uri: 'http://www.openymca.org'
+      reg_uri: 'https://ds.ymca.org'
       reg_title: 'Register Now'
       activity_type: ''
     -
@@ -759,7 +759,7 @@ source:
       availability: 0
       price_member: 132
       price_nonmember: 265
-      reg_uri: 'http://www.openymca.org'
+      reg_uri: 'https://ds.ymca.org'
       reg_title: 'Register Now'
       activity_type: ''
     -
@@ -779,7 +779,7 @@ source:
       availability: 2
       price_member: 132
       price_nonmember: 265
-      reg_uri: 'http://www.openymca.org'
+      reg_uri: 'https://ds.ymca.org'
       reg_title: 'Register Now'
       activity_type: ''
     -
@@ -799,7 +799,7 @@ source:
       availability: 2
       price_member: 132
       price_nonmember: 265
-      reg_uri: 'http://www.openymca.org'
+      reg_uri: 'https://ds.ymca.org'
       reg_title: 'Register Now'
       activity_type: ''
     -
@@ -819,7 +819,7 @@ source:
       availability: 2
       price_member: 132
       price_nonmember: 265
-      reg_uri: 'http://www.openymca.org'
+      reg_uri: 'https://ds.ymca.org'
       reg_title: 'Register Now'
       activity_type: ''
     -
@@ -839,7 +839,7 @@ source:
       availability: 2
       price_member: 132
       price_nonmember: 265
-      reg_uri: 'http://www.openymca.org'
+      reg_uri: 'https://ds.ymca.org'
       reg_title: 'Register Now'
       activity_type: ''
     -
@@ -859,7 +859,7 @@ source:
       availability: 2
       price_member: 132
       price_nonmember: 265
-      reg_uri: 'http://www.openymca.org'
+      reg_uri: 'https://ds.ymca.org'
       reg_title: 'Register Now'
       activity_type: ''
     -
@@ -879,7 +879,7 @@ source:
       availability: 2
       price_member: 132
       price_nonmember: 265
-      reg_uri: 'http://www.openymca.org'
+      reg_uri: 'https://ds.ymca.org'
       reg_title: 'Register Now'
       activity_type: ''
     -
@@ -899,7 +899,7 @@ source:
       availability: 2
       price_member: 132
       price_nonmember: 265
-      reg_uri: 'http://www.openymca.org'
+      reg_uri: 'https://ds.ymca.org'
       reg_title: 'Register Now'
       activity_type: ''
     -
@@ -919,7 +919,7 @@ source:
       availability: 2
       price_member: 132
       price_nonmember: 265
-      reg_uri: 'http://www.openymca.org'
+      reg_uri: 'https://ds.ymca.org'
       reg_title: 'Register Now'
       activity_type: ''
     -
@@ -939,7 +939,7 @@ source:
       availability: 2
       price_member: 132
       price_nonmember: 265
-      reg_uri: 'http://www.openymca.org'
+      reg_uri: 'https://ds.ymca.org'
       reg_title: 'Register Now'
       activity_type: ''
     -
@@ -959,7 +959,7 @@ source:
       availability: 2
       price_member: 132
       price_nonmember: 265
-      reg_uri: 'http://www.openymca.org'
+      reg_uri: 'https://ds.ymca.org'
       reg_title: 'Register Now'
       activity_type: ''
     -
@@ -979,7 +979,7 @@ source:
       availability: 2
       price_member: 132
       price_nonmember: 265
-      reg_uri: 'http://www.openymca.org'
+      reg_uri: 'https://ds.ymca.org'
       reg_title: 'Register Now'
       activity_type: ''
     -
@@ -999,7 +999,7 @@ source:
       availability: 2
       price_member: 132
       price_nonmember: 265
-      reg_uri: 'http://www.openymca.org'
+      reg_uri: 'https://ds.ymca.org'
       reg_title: 'Register Now'
       activity_type: ''
     -
@@ -1019,7 +1019,7 @@ source:
       availability: 2
       price_member: 132
       price_nonmember: 265
-      reg_uri: 'http://www.openymca.org'
+      reg_uri: 'https://ds.ymca.org'
       reg_title: 'Register Now'
       activity_type: ''
     -
@@ -1039,7 +1039,7 @@ source:
       availability: 2
       price_member: 132
       price_nonmember: 265
-      reg_uri: 'http://www.openymca.org'
+      reg_uri: 'https://ds.ymca.org'
       reg_title: 'Register Now'
       activity_type: 'small group training'
     -
@@ -1059,7 +1059,7 @@ source:
       availability: 2
       price_member: 132
       price_nonmember: 265
-      reg_uri: 'http://www.openymca.org'
+      reg_uri: 'https://ds.ymca.org'
       reg_title: 'Register Now'
       activity_type: ''
     -
@@ -1079,7 +1079,7 @@ source:
       availability: 2
       price_member: 132
       price_nonmember: 265
-      reg_uri: 'http://www.openymca.org'
+      reg_uri: 'https://ds.ymca.org'
       reg_title: 'Register Now'
       activity_type: ''
     -
@@ -1099,7 +1099,7 @@ source:
       availability: 2
       price_member: 132
       price_nonmember: 265
-      reg_uri: 'http://www.openymca.org'
+      reg_uri: 'https://ds.ymca.org'
       reg_title: 'Register Now'
       activity_type: ''
     -
@@ -1119,7 +1119,7 @@ source:
       availability: 2
       price_member: 132
       price_nonmember: 265
-      reg_uri: 'http://www.openymca.org'
+      reg_uri: 'https://ds.ymca.org'
       reg_title: 'Register Now'
       activity_type: ''
     -
@@ -1139,7 +1139,7 @@ source:
       availability: 2
       price_member: 132
       price_nonmember: 265
-      reg_uri: 'http://www.openymca.org'
+      reg_uri: 'https://ds.ymca.org'
       reg_title: 'Register Now'
       activity_type: ''
     -
@@ -1159,7 +1159,7 @@ source:
       availability: 2
       price_member: 132
       price_nonmember: 265
-      reg_uri: 'http://www.openymca.org'
+      reg_uri: 'https://ds.ymca.org'
       reg_title: 'Register Now'
       activity_type: ''
     -
@@ -1179,7 +1179,7 @@ source:
       availability: 2
       price_member: 132
       price_nonmember: 265
-      reg_uri: 'http://www.openymca.org'
+      reg_uri: 'https://ds.ymca.org'
       reg_title: 'Register Now'
       activity_type: ''
     -
@@ -1199,7 +1199,7 @@ source:
       availability: 2
       price_member: 132
       price_nonmember: 265
-      reg_uri: 'http://www.openymca.org'
+      reg_uri: 'https://ds.ymca.org'
       reg_title: 'Register Now'
       activity_type: ''
     -
@@ -1219,7 +1219,7 @@ source:
       availability: 2
       price_member: 132
       price_nonmember: 265
-      reg_uri: 'http://www.openymca.org'
+      reg_uri: 'https://ds.ymca.org'
       reg_title: 'Register Now'
       activity_type: ''
     -
@@ -1239,7 +1239,7 @@ source:
       availability: 2
       price_member: 132
       price_nonmember: 265
-      reg_uri: 'http://www.openymca.org'
+      reg_uri: 'https://ds.ymca.org'
       reg_title: 'Register Now'
       activity_type: ''
     -
@@ -1259,7 +1259,7 @@ source:
       availability: 2
       price_member: 132
       price_nonmember: 265
-      reg_uri: 'http://www.openymca.org'
+      reg_uri: 'https://ds.ymca.org'
       reg_title: 'Register Now'
       activity_type: ''
     -
@@ -1279,7 +1279,7 @@ source:
       availability: 0
       price_member: 132
       price_nonmember: 265
-      reg_uri: 'http://www.openymca.org'
+      reg_uri: 'https://ds.ymca.org'
       reg_title: 'Register Now'
       activity_type: ''
     -
@@ -1299,7 +1299,7 @@ source:
       availability: 0
       price_member: 132
       price_nonmember: 265
-      reg_uri: 'http://www.openymca.org'
+      reg_uri: 'https://ds.ymca.org'
       reg_title: 'Register Now'
       activity_type: ''
     -
@@ -1319,7 +1319,7 @@ source:
       availability: 0
       price_member: 132
       price_nonmember: 265
-      reg_uri: 'http://www.openymca.org'
+      reg_uri: 'https://ds.ymca.org'
       reg_title: 'Register Now'
       activity_type: ''
     -
@@ -1339,7 +1339,7 @@ source:
       availability: 0
       price_member: 132
       price_nonmember: 265
-      reg_uri: 'http://www.openymca.org'
+      reg_uri: 'https://ds.ymca.org'
       reg_title: 'Register Now'
       activity_type: ''
     -
@@ -1359,7 +1359,7 @@ source:
       availability: 0
       price_member: 132
       price_nonmember: 265
-      reg_uri: 'http://www.openymca.org'
+      reg_uri: 'https://ds.ymca.org'
       reg_title: 'Register Now'
       activity_type: ''
     -
@@ -1379,7 +1379,7 @@ source:
       availability: 0
       price_member: 132
       price_nonmember: 265
-      reg_uri: 'http://www.openymca.org'
+      reg_uri: 'https://ds.ymca.org'
       reg_title: 'Register Now'
       activity_type: ''
     -
@@ -1399,7 +1399,7 @@ source:
       availability: 0
       price_member: 132
       price_nonmember: 265
-      reg_uri: 'http://www.openymca.org'
+      reg_uri: 'https://ds.ymca.org'
       reg_title: 'Register Now'
       activity_type: ''
     -
@@ -1419,7 +1419,7 @@ source:
       availability: 0
       price_member: 132
       price_nonmember: 265
-      reg_uri: 'http://www.openymca.org'
+      reg_uri: 'https://ds.ymca.org'
       reg_title: 'Register Now'
       activity_type: ''
     -
@@ -1439,7 +1439,7 @@ source:
       availability: 0
       price_member: 132
       price_nonmember: 265
-      reg_uri: 'http://www.openymca.org'
+      reg_uri: 'https://ds.ymca.org'
       reg_title: 'Register Now'
       activity_type: ''
   ids:

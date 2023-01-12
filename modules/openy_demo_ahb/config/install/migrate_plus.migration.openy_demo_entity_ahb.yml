@@ -18,17 +18,17 @@ source:
       id: 1
       field_ahb_title: 'All'
       field_ahb_description: |
-        <p>There is an existing FAQ question that directs people to the YouTube channel. An additional line of content could be added here to indicate that training videos have also been added inline in the admin, where applicable. <a href="http://www.openymca.org/faq">http://www.openymca.org/faq</a>
-           ARE THERE ANY TUTORIALS OR VIDEOS ON HOW TO USE AND SETUP OPEN Y?
+        <p>There is an existing FAQ question that directs people to the YouTube channel. An additional line of content could be added here to indicate that training videos have also been added inline in the admin, where applicable. <a href="https://ds.ymca.org/faq">https://ds.ymca.org/faq</a>
+           ARE THERE ANY TUTORIALS OR VIDEOS ON HOW TO USE AND SETUP YMCA Website Services?
         </p>
       field_ahb_video: 'https://www.youtube.com/channel/UC4hp3K9JFptqPZyNjJLvkJg/videos'
       field_ahb_pages: '<front>'
       field_ahb_visibility: 'include'
     -
       id: 2
-      field_ahb_title: 'Open Y Install Tutorial for Tech Novices'
+      field_ahb_title: 'YMCA Website Services Install Tutorial for Tech Novices'
       field_ahb_description: |
-        <p>Video includes hosting setup instructions with DigitalOcean, should be public link outside of Admin console before Drupal site is setup. There is an existing FAQ question that directs people to the general YouTube channel. An additional line of content and link to this specific setup video could be added here. <a href="http://www.openymca.org/faq">http://www.openymca.org/faq</a> ARE THERE ANY TUTORIALS OR VIDEOS ON HOW TO USE AND SETUP OPEN Y?
+        <p>Video includes hosting setup instructions with DigitalOcean, should be public link outside of Admin console before Drupal site is setup. There is an existing FAQ question that directs people to the general YouTube channel. An additional line of content and link to this specific setup video could be added here. <a href="https://ds.ymca.org/faq">https://ds.ymca.org/faq</a> ARE THERE ANY TUTORIALS OR VIDEOS ON HOW TO USE AND SETUP YMCA Website Services?
            If people need a refresher, the Help box could possibly be located in the <a href="/admin/config">/admin/config</a> section
         </p>
       field_ahb_video: 'https://www.youtube.com/watch?v=O3BkmL2MpKU'
@@ -36,7 +36,7 @@ source:
       field_ahb_visibility: 'include'
     -
       id: 3
-      field_ahb_title: 'Open Y anti spam protection - reCaptcha'
+      field_ahb_title: 'YMCA Website Services anti spam protection - reCaptcha'
       field_ahb_description: |
         <p>Suggest to put on webforms page (where editors create new webforms)</p>
       field_ahb_video: 'https://www.youtube.com/watch?v=nHo2uL-bPyM'
@@ -60,15 +60,15 @@ source:
       field_ahb_visibility: 'include'
     -
       id: 6
-      field_ahb_title: 'Open Y: How to Change Styles and Create Custom Theme'
+      field_ahb_title: 'YMCA Website Services: How to Change Styles and Create Custom Theme'
       field_ahb_description: |
-        <p>This video is relevant to the Open Y Rose (default theme)</p>
+        <p>This video is relevant to the YMCA Website Services Rose (default theme)</p>
       field_ahb_video: 'https://www.youtube.com/watch?v=c1WXlyHXlrU'
       field_ahb_pages: '/admin/appearance/settings/openy_rose'
       field_ahb_visibility: 'include'
     -
       id: 7
-      field_ahb_title: 'Open Y: Upgrade Path Dashboard'
+      field_ahb_title: 'YMCA Website Services: Upgrade Path Dashboard'
       field_ahb_description: |
         <p></p>
       field_ahb_video: 'https://www.youtube.com/watch?v=ThpCX6T4q6c'
@@ -76,17 +76,17 @@ source:
       field_ahb_visibility: 'include'
     -
       id: 8
-      field_ahb_title: 'Open Y: Demo Content'
+      field_ahb_title: 'YMCA Website Services: Demo Content'
       field_ahb_description: |
-        <p>Part of the installation process. See notes in "Open Y Install Tutorial for Tech Novices" for placement. Could be here <a href="http://sandbox.openymca.org/admin/structure/migrate">http://sandbox.openymca.org/admin/structure/migrate</a></p>
+        <p>Part of the installation process. See notes in "YMCA Website Services Install Tutorial for Tech Novices" for placement. Could be here <a href="https://sandbox-carnation-std.y.org/admin/structure/migrate">https://sandbox-carnation-std.y.org/admin/structure/migrate</a></p>
       field_ahb_video: 'https://www.youtube.com/watch?v=GcwNW3TDnjg'
       field_ahb_pages: '/admin/structure/migrate'
       field_ahb_visibility: 'include'
     -
       id: 9
-      field_ahb_title: 'Open Y: Data Layer'
+      field_ahb_title: 'YMCA Website Services: Data Layer'
       field_ahb_description: |
-        <p>Covers Chrome Developer Tools to explore data layer. Possible relation to <a href="/content">/content</a> types, but perhaps too micro of a topic to place as a Help box in this section. <a href="http://sandbox.openymca.org/admin/structure/types">http://sandbox.openymca.org/admin/structure/types</a> (if anywhere)</p>
+        <p>Covers Chrome Developer Tools to explore data layer. Possible relation to <a href="/content">/content</a> types, but perhaps too micro of a topic to place as a Help box in this section. <a href="https://sandbox-carnation-std.y.org/admin/structure/types">https://sandbox-carnation-std.y.org/admin/structure/types</a> (if anywhere)</p>
       field_ahb_video: 'https://www.youtube.com/watch?v=EDibwoQgIUY'
       field_ahb_pages: '/admin/structure/types'
       field_ahb_visibility: 'include'
@@ -100,15 +100,15 @@ source:
       field_ahb_visibility: 'include'
     -
       id: 11
-      field_ahb_title: 'Quick Start Open Y Install tutorial with Digital Ocean'
+      field_ahb_title: 'Quick Start YMCA Website Services Install tutorial with Digital Ocean'
       field_ahb_description: |
-        <p>Similar to Open Y Install Tutorial for Tech Novices (but shorter). See notes above. </p>
+        <p>Similar to YMCA Website Services Install Tutorial for Tech Novices (but shorter). See notes above. </p>
       field_ahb_video: 'https://www.youtube.com/watch?v=V3K4-RLjxQo'
       field_ahb_pages: ''
       field_ahb_visibility: 'include'
     -
       id: 12
-      field_ahb_title: 'Dr. Jeffrey Burns, Nathan Maehren talk about making a difference with Drupal - Open Y Edit'
+      field_ahb_title: 'Dr. Jeffrey Burns, Nathan Maehren talk about making a difference with Drupal - YMCA Website Services Edit'
       field_ahb_description: |
         <p>Great video, but more marketing focused. Suggest it doesn't need to be in the Admin as a Help topic. There is an existing playlist "For Y Associations" that covers these types of topics on YouTube <a href="https://www.youtube.com/watch?v=HPsa8ZgLw1A&list=PL_QVggMcFfKY_80g0z3UPZL7_wn-27UUg">https://www.youtube.com/watch?v=HPsa8ZgLw1A&list=PL_QVggMcFfKY_80g0z3UPZL7_wn-27UUg</a></p>
       field_ahb_video: 'https://www.youtube.com/watch?v=HPsa8ZgLw1A'
@@ -116,7 +116,7 @@ source:
       field_ahb_visibility: 'include'
     -
       id: 13
-      field_ahb_title: 'Open Y: Branch'
+      field_ahb_title: 'YMCA Website Services: Branch'
       field_ahb_description: |
         <p>User is directed here during the video. Manage > Content > Add Content > Branch</p>
       field_ahb_video: 'https://www.youtube.com/watch?v=l5rlwyyIaMk'
@@ -124,7 +124,7 @@ source:
       field_ahb_visibility: 'include'
     -
       id: 14
-      field_ahb_title: 'Open Y: Landing Page Wizard'
+      field_ahb_title: 'YMCA Website Services: Landing Page Wizard'
       field_ahb_description: |
         <p>User is directed here during the video. Manage > Content > Add Content > Landing Page</p>
       field_ahb_video: 'https://www.youtube.com/watch?v=JGdDCWtbNKY'
@@ -132,7 +132,7 @@ source:
       field_ahb_visibility: 'include'
     -
       id: 15
-      field_ahb_title: 'Open Y: Content Overview'
+      field_ahb_title: 'YMCA Website Services: Content Overview'
       field_ahb_description: |
         <p></p>
       field_ahb_video: 'https://www.youtube.com/watch?v=UNYCB9XegDE'
@@ -180,7 +180,7 @@ source:
       field_ahb_visibility: 'include'
     -
       id: 21
-      field_ahb_title: 'Open Y: Taxonomy'
+      field_ahb_title: 'YMCA Website Services: Taxonomy'
       field_ahb_description: |
         <p>Can be found under Content (after filtering for blog content). It could be placed at the root of <a href="/content">/content</a> to be able to find easier, and/or add individual links to each section. Given there are a number of tutorials, suggest linking to the existing playlist on YouTube and have one link - <a href="https://www.youtube.com/watch?v=--gW0zj4wEc&list=PL_QVggMcFfKZZlVzNcVaIWCl4WwcOr9Jk">https://www.youtube.com/watch?v=--gW0zj4wEc&list=PL_QVggMcFfKZZlVzNcVaIWCl4WwcOr9Jk</a></p>
       field_ahb_video: 'https://www.youtube.com/watch?v=y9LPj0V6tt4'
@@ -188,23 +188,23 @@ source:
       field_ahb_visibility: 'include'
     -
       id: 22
-      field_ahb_title: 'Open Y: Logos'
+      field_ahb_title: 'YMCA Website Services: Logos'
       field_ahb_description: |
-        <p>This video is relevant to the Open Y Rose (default theme)</p>
+        <p>This video is relevant to the YMCA Website Services Rose (default theme)</p>
       field_ahb_video: 'https://www.youtube.com/watch?v=lrGMihUyyDE'
       field_ahb_pages: '/admin/appearance/settings/openy_rose'
       field_ahb_visibility: 'include'
     -
       id: 23
-      field_ahb_title: 'Open Y: Customizable theme'
+      field_ahb_title: 'YMCA Website Services: Customizable theme'
       field_ahb_description: |
-        <p>Similar to above, related to Open Y Rose (default theme)</p>
+        <p>Similar to above, related to YMCA Website Services Rose (default theme)</p>
       field_ahb_video: 'https://www.youtube.com/watch?v=wj5rsd_suqY'
       field_ahb_pages: '/admin/appearance/settings/openy_rose'
       field_ahb_visibility: 'include'
     -
       id: 24
-      field_ahb_title: 'Open Y: Footer menu'
+      field_ahb_title: 'YMCA Website Services: Footer menu'
       field_ahb_description: |
         <p>There are four footer menu topics; footer, center, left, right. Suggest the Help is at the root of <a href="/structure/menu">/structure/menu</a> NOTE there is already a playlist on YouTube for general customization and theme changes: <a href="https://www.youtube.com/watch?v=3--CzMz5DPk&list=PL_QVggMcFfKbcayynOt0pb_Uw7DAR7KIl">https://www.youtube.com/watch?v=3--CzMz5DPk&list=PL_QVggMcFfKbcayynOt0pb_Uw7DAR7KIl</a></p>
       field_ahb_video: 'https://www.youtube.com/watch?v=XMT92r5GydM'
@@ -212,15 +212,15 @@ source:
       field_ahb_visibility: 'include'
     -
       id: 25
-      field_ahb_title: 'Open Y: Footer icons & copyright'
+      field_ahb_title: 'YMCA Website Services: Footer icons & copyright'
       field_ahb_description: |
-        <p>This is footer social icons and copyright. While it's easy enough to edit the blocks directly, help info could be placed either as a second link in <a href="/structure/menu">/structure/menu</a> above and/or here <a href="http://sandbox.openymca.org/admin/structure/block/block-content">http://sandbox.openymca.org/admin/structure/block/block-content</a></p>
+        <p>This is footer social icons and copyright. While it's easy enough to edit the blocks directly, help info could be placed either as a second link in <a href="/structure/menu">/structure/menu</a> above and/or here <a href="https://sandbox-carnation-std.y.org/admin/structure/block/block-content">https://sandbox-carnation-std.y.org/admin/structure/block/block-content</a></p>
       field_ahb_video: 'https://www.youtube.com/watch?v=BZMDljgK9A8'
       field_ahb_pages: '/admin/structure/block/block-content'
       field_ahb_visibility: 'include'
     -
       id: 26
-      field_ahb_title: 'Open Y: User Menu'
+      field_ahb_title: 'YMCA Website Services: User Menu'
       field_ahb_description: |
         <p>My Account and Log Out menus</p>
       field_ahb_video: 'https://www.youtube.com/watch?v=kcOKZVM-hzg'
@@ -228,7 +228,7 @@ source:
       field_ahb_visibility: 'include'
     -
       id: 27
-      field_ahb_title: 'Open Y: Header Menu'
+      field_ahb_title: 'YMCA Website Services: Header Menu'
       field_ahb_description: |
         <p>My Account and Log Out menus</p>
       field_ahb_video: 'https://www.youtube.com/watch?v=3--CzMz5DPk'
@@ -236,7 +236,7 @@ source:
       field_ahb_visibility: 'include'
     -
       id: 28
-      field_ahb_title: 'DrupalCon Baltimore 2017 - Open Y background, technology review, and upgrade path'
+      field_ahb_title: 'DrupalCon Baltimore 2017 - YMCA Website Services background, technology review, and upgrade path'
       field_ahb_description: |
         <p>Similar to Dr. Jeffrey Burns, Nathan Maehren video, more general information/marketing content. It does cover some technical installation and feature details but I suggest it doesn't need to be in the Admin as a Help topic.  </p>
       field_ahb_video: 'https://www.youtube.com/watch?v=LV3MwaOt0rQ'
@@ -244,7 +244,7 @@ source:
       field_ahb_visibility: 'include'
     -
       id: 29
-      field_ahb_title: 'Open Y Development: Debugging JavaScript Behat tests'
+      field_ahb_title: 'YMCA Website Services Development: Debugging JavaScript Behat tests'
       field_ahb_description: |
         <p>Behat tests could apply to any functional area and is configured outside of the Drupal Admin.</p>
       field_ahb_video: 'https://www.youtube.com/watch?v=RSsQLVVhldc'
@@ -252,7 +252,7 @@ source:
       field_ahb_visibility: 'include'
     -
       id: 30
-      field_ahb_title: 'Open Y - v1.0b Features Tour'
+      field_ahb_title: 'YMCA Website Services - v1.0b Features Tour'
       field_ahb_description: |
         <p>High level overview, rather than in-context admin help. </p>
       field_ahb_video: 'https://www.youtube.com/watch?v=tXwbucW2TEQ'
@@ -260,15 +260,15 @@ source:
       field_ahb_visibility: 'include'
     -
       id: 31
-      field_ahb_title: 'Open Y: Upgrade Dashboard instruction'
+      field_ahb_title: 'YMCA Website Services: Upgrade Dashboard instruction'
       field_ahb_description: |
         <ol>
           <li>We strongly recommend that you perform any actions on this Dashboard only on the <strong>NON-production</strong> environment!</li>
           <li>Make a database <strong>backup</strong> before resolving conflicts.</li>
           <li><strong>Resolve conflicts.</strong><br />
             Press diff button next to a conflict and decide what should be done with this config.<br />
-            You can approve current changes or revert to a config from Open Y.<br />
-            Also, you can choose to resolve conflict manually. To do so you can apply changes from both current version and from Open Y.</li>
+            You can approve current changes or revert to a config from YMCA Website Services.<br />
+            Also, you can choose to resolve conflict manually. To do so you can apply changes from both current version and from YMCA Website Services.</li>
           <li><strong>Generate</strong> a function for hook_update. Resulting code will contain all of your actions for programmatic conflict resolution.</li>
           <li>Insert generated code to any custom module (Use MODULE_NAME.install file. Additional information about update hooks can be found <a href="https://api.drupal.org/api/drupal/core%21lib%21Drupal%21Core%21Extension%21module.api.php/function/hook_update_N/8.2.x">HERE</a>).</li>
           <li>If you used manual config merge, then export all site configuration to the directory that is used as config file storage (Additional information about File system based workflow can be found <a href="https://www.drupal.org/docs/8/configuration-management/file-system-based-workflow">HERE</a>).&nbsp;</li>
@@ -282,7 +282,7 @@ source:
       field_ahb_visibility: 'include'
     -
       id: 32
-      field_ahb_title: 'Open Y: Media Bulk Upload'
+      field_ahb_title: 'YMCA Website Services: Media Bulk Upload'
       field_ahb_description: |
         <p>Please read the documentation about Media Bulk Upload module installation and configuration <a href="https://ds-docs.y.org/docs/user-documentation/media/#bulk-upload">here</a>
       field_ahb_video: ''

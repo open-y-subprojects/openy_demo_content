@@ -1,9 +1,9 @@
-name: 'Open Y Demo Node Camp'
+name: 'YMCA Website Services Demo Node Camp'
 description: Stores migrations to import demo camp nodes.
 type: module
-core_version_requirement: ^8 || ^9
-version: 8.x-1.0
-package: Open Y
+core_version_requirement: ^8.7.7 || ^9 || ^10
+version: 2.0.0
+package: YMCA Website Services
 dependencies:
   - drupal:migrate
   - migrate_plus:migrate_plus

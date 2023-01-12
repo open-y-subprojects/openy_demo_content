@@ -10,7 +10,7 @@ template: false
 archive: false
 id: demo_form
 title: 'Demo Form'
-description: 'Open Y Demo Webform'
+description: 'YMCA Website Services Demo Webform'
 category: ''
 elements: |
   demo_webform_title:
