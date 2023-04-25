@@ -14,7 +14,7 @@ function openy_demo_webform_install() {
   // Import Demo Webform config using asset dir to avoid its deletion after demo module uninstall.
   // Otherwise import demo_form as usual config, module
   // uninstall will remove all submissions and demo_form from site.
-  $config_path = drupal_get_path('module', 'openy_demo_webform') . '/assets/yml';
+  $config_path = \Drupal::service('extension.list.module')->getPath('openy_demo_webform') . '/assets/yml';
   /** @var \Drupal\Core\Config\StorageInterface $config_storage */
   $source = new FileStorage($config_path);
   $config_storage = \Drupal::service('config.storage');
