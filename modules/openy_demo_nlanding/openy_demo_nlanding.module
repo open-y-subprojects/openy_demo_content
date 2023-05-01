@@ -28,6 +28,7 @@ function openy_demo_nlanding_pef_pages() {
    */
   $get_activity_id_by_title = function ($title) {
     $query = \Drupal::entityQuery('node')
+      ->accessCheck(FALSE)
       ->condition('type', 'activity')
       ->condition('title', $title);
     $result = $query->execute();
