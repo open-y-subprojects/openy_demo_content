@@ -71,7 +71,7 @@ function openy_demo_nlanding_pef_pages() {
       'field_prgf_repeat_schedules_ref' => ['plugin_id' => 'repeat_schedules_block'],
       'field_prgf_repeat_schedules_pref' => ['target_id' => $locations_node->id()],
       'field_prgf_repeat_schedule_excl' => [
-        [ 'target_id' => $group_exercises_nid ],
+        ['target_id' => $group_exercises_nid],
       ],
     ]
   );
@@ -95,7 +95,6 @@ function openy_demo_nlanding_pef_pages() {
 
   $locations_node->field_content->entity = $location_paragraph;
   $locations_node->save();
-
 
   $db = \Drupal::database();
   $query = $db->select('menu_link_content_data', 'm');
@@ -434,6 +433,6 @@ function openy_demo_nlanding_af_pages() {
       ],
       'plugin_id_field' => 'field_activity_finder_search_plugin_id',
       'config_field' => 'field_activity_finder_search_plugin_configuration',
-    ]
+    ],
   ]);
 }
