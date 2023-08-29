@@ -288,6 +288,13 @@ source:
       field_ahb_video: ''
       field_ahb_pages: "/admin/content/browser\n/admin/content/media"
       field_ahb_visibility: 'include'
+    -
+      id: 33
+      field_ahb_title: 'YMCA Website Services: This page uses "Paragraphs" to create content'
+      field_ahb_description: |
+        <p><a href="https://ds-docs.y.org/docs/user-documentation/paragraphs/" target="_blank">Learn more about the Paragraph types available</a>.</p>
+      field_ahb_pages: '/node/add/branch,/node/add/event,/node/add/landing_page,/node/add/news'
+      field_ahb_visibility: 'include'
   ids:
     id:
       type: integer
