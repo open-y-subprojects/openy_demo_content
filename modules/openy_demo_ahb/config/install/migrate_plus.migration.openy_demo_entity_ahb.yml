@@ -89,7 +89,7 @@ source:
       id: 10
       field_ahb_title: 'YMCA Website Services: Taxonomy'
       field_ahb_description: |
-        <p>Group pieces of related content together for tagging, filtering, sorting and grouping. <a href="https://ds-docs.y.org/docs/user-documentation/taxonomy/" target="_blank">Learn more in our docs</a>.</p>
+        <p>Group pieces of related content together for tagging, filtering, sorting, and grouping. <a href="https://ds-docs.y.org/docs/user-documentation/taxonomy/" target="_blank">Learn more in our docs</a>.</p>
       field_ahb_video: 'https://www.youtube.com/watch?v=y9LPj0V6tt4'
       field_ahb_pages: '/admin/structure/taxonomy'
       field_ahb_visibility: 'include'
