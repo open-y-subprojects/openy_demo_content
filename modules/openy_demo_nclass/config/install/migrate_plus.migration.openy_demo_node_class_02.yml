@@ -111,7 +111,7 @@ source:
           sidebar_id: health_and_wellness_workshops_aoa_senior_health_and_fitness_day
     -
       id: health_and_wellness_workshops_aoa_brain_agility_fee_spr_2017
-      title: 'AOA Brain Agility - Class Fee, Spring 2017'
+      title: 'AOA Brain Agility - Class Fee, Spring'
       activity: activity_health_and_wellness_workshops
       body: |
         <p>
@@ -134,7 +134,7 @@ source:
         </p>
 
         <p>
-        Class dates are Tuesdays, April 25 through June 6, 2017.
+        Class dates are Tuesdays, April 25 through June 6.
         </p>
       content:
         -
@@ -146,7 +146,7 @@ source:
           sidebar_id: health_and_wellness_workshops_aoa_brain_agility_fee_spr_2017
     -
       id: health_and_wellness_workshops_aoa_brain_agility_mat_fee_spr_2017
-      title: 'AOA Brain Agility - Materials Fee, Spring 2017'
+      title: 'AOA Brain Agility - Materials Fee, Spring'
       activity: activity_health_and_wellness_workshops
       body: |
         <p>
@@ -171,7 +171,7 @@ source:
 
         <p>
         This program meets once per week for 1 hour and 30 minutes. Class
-        dates are Tuesdays April 25 through June 6, 2017.
+        dates are Tuesdays April 25 through June 6.
         </p>
 
         <p>&nbsp;</p>
@@ -221,7 +221,7 @@ source:
           sidebar_id: group_exercise_classes_hiit_metabolic_conditioning
     -
       id: group_exercise_classes_moving_for_balance_spr_2017
-      title: 'Moving for Better Balance - Continuing Spring 2017'
+      title: 'Moving for Better Balance - Continuing Spring'
       activity: group_exercise_classes
       body: |
         <p>
@@ -874,7 +874,7 @@ source:
           sidebar_id: weight_loss_lose_to_win
     -
       id: before_after_school_child_care_2016_17_woodmoor_non_school_days
-      title: '2016/17 Woodmoor - (f) Non-School Days'
+      title: 'Woodmoor - (f) Non-School Days'
       activity: activity_before_after_school_child_care
       body: |
         <p>
@@ -899,7 +899,7 @@ source:
           sidebar_id: before_after_school_child_care_2016_17_woodmoor_non_school_days
     -
       id: before_after_school_child_care_2016_17_woodmoor_after_plus
-      title: '2016/17 Woodmoor - (b) After Plus Care'
+      title: 'Woodmoor - (b) After Plus Care'
       activity: activity_before_after_school_child_care
       body: |
         <p>
@@ -924,7 +924,7 @@ source:
           sidebar_id: before_after_school_child_care_2016_17_woodmoor_after_plus
     -
       id: before_after_school_child_care_2016_17_woodmoor_after
-      title: '2016/17 Woodmoor - (c) After Care'
+      title: 'Woodmoor - (c) After Care'
       activity: activity_before_after_school_child_care
       body: |
         <p>
@@ -953,7 +953,7 @@ source:
           sidebar_id: before_after_school_child_care_2016_17_woodmoor_after
     -
       id: before_after_school_child_care_2016_17_sunrise_before_after
-      title: '2016/17 Sunrise - (a) Before and After Care'
+      title: 'Sunrise - (a) Before and After Care'
       activity: activity_before_after_school_child_care
       body: |
         <p>
@@ -978,7 +978,7 @@ source:
           sidebar_id: before_after_school_child_care_2016_17_sunrise_before_after
     -
       id: preschool_child_care_2016_17_northshore_pre_k_4_5yrs
-      title: '2016/17 Northshore - Pre-K Child Care (4 - 5yrs)'
+      title: 'Northshore - Pre-K Child Care (4 - 5yrs)'
       activity: activity_preschool_child_care
       body: |
         <p>
@@ -1002,7 +1002,7 @@ source:
           sidebar_id: preschool_child_care_2016_17_northshore_pre_k_4_5yrs
     -
       id: preschool_child_care_2016_17_northshore_preschool_30m_4yr
-      title: '2016/17 Northshore- Preschool Child Care (30m-4yr)'
+      title: 'Northshore- Preschool Child Care (30m-4yr)'
       activity: activity_preschool_child_care
       body: |
         <p>
@@ -1026,7 +1026,7 @@ source:
           sidebar_id: preschool_child_care_2016_17_northshore_preschool_30m_4yr
     -
       id: discovery_day_camp_drop_off_carol_edwards_ctr_2017
-      title: 'Discovery Camp: Drop-off - Carol Edwards Ctr. 2017'
+      title: 'Discovery Camp: Drop-off - Carol Edwards Ctr.'
       activity: activity_discovery_day_camp
       body: |
         <p>
@@ -1043,7 +1043,7 @@ source:
           sidebar_id: discovery_day_camp_drop_off_carol_edwards_ctr_2017
     -
       id: discovery_day_camp_drop_off_kenmore_elementary_2017
-      title: 'Discovery Camp: Drop-off - Kenmore Elementary 2017'
+      title: 'Discovery Camp: Drop-off - Kenmore Elementary'
       activity: activity_discovery_day_camp
       body: |
         <p>
@@ -1060,7 +1060,7 @@ source:
           sidebar_id: discovery_day_camp_drop_off_kenmore_elementary_2017
     -
       id: discovery_day_camp_drop_off_Northshore_ymca_2017
-      title: 'Discovery Camp: Drop-off - Northshore YMCA 2017'
+      title: 'Discovery Camp: Drop-off - Northshore YMCA'
       activity: activity_discovery_day_camp
       body: |
         <p>
@@ -1272,16 +1272,16 @@ source:
         <p>AOA National Senior Health and Fitness Day</p>
 #    -
 #      id: class_aoa_2
-#      title: 'AOA Brain Agility - Class Fee, Spring 2017'
+#      title: 'AOA Brain Agility - Class Fee, Spring'
 #      activity: activity_health_wellness_workshops
 #      body: |
-#        <p>AOA Brain Agility - Class Fee, Spring 2017</p>
+#        <p>AOA Brain Agility - Class Fee, Spring</p>
 #    -
 #      id: class_aoa_3
-#      title: 'AOA Brain Agility - Materials Fee, Spring 2017'
+#      title: 'AOA Brain Agility - Materials Fee, Spring'
 #      activity: activity_health_wellness_workshops
 #      body: |
-#        <p>AOA Brain Agility - Materials Fee, Spring 2017</p>
+#        <p>AOA Brain Agility - Materials Fee, Spring</p>
     -
       id: class_hi_1
       title: 'LIVESTRONG at the YMCA'
@@ -1548,22 +1548,22 @@ source:
 #        <p>BOLD Fishing and Backpacking in the North Cascades</p>
     -
       id: class_discovery_day_camp_1
-      title: 'Discover Camp: Drop-off - Carol Edwards Ctr. 2017'
+      title: 'Discover Camp: Drop-off - Carol Edwards Ctr.'
       activity: activity_discovery_day_camp
       body: |
-        <p>Discover Camp: Drop-off - Carol Edwards Ctr. 2017</p>
+        <p>Discover Camp: Drop-off - Carol Edwards Ctr.</p>
 #    -
 #      id: class_discovery_day_camp_2
-#      title: 'Discovery Camp: Drop-off - Kenmore Elementary 2017'
+#      title: 'Discovery Camp: Drop-off - Kenmore Elementary'
 #      activity: activity_discovery_day_camp
 #      body: |
-#        <p>Discovery Camp: Drop-off - Kenmore Elementary 2017</p>
+#        <p>Discovery Camp: Drop-off - Kenmore Elementary</p>
 #    -
 #      id: class_discovery_day_camp_3
-#      title: 'Discovery Camp: Drop-off - Northshore YMCA 2017'
+#      title: 'Discovery Camp: Drop-off - Northshore YMCA'
 #      activity: activity_discovery_day_camp
 #      body: |
-#        <p>Discovery Camp: Drop-off - Northshore YMCA 2017</p>
+#        <p>Discovery Camp: Drop-off - Northshore YMCA</p>
     -
       id: class_academic_enrichment_youth_1
       title: 'AM Fit & Fun'
@@ -1596,34 +1596,34 @@ source:
 #        <p>Crafternoon</p>
     -
       id: class_before_after_school_child_care_1
-      title: '2016/17 Woodmoor - (f) Non-School Days'
+      title: 'Woodmoor - (f) Non-School Days'
       activity: activity_before_after_school_child_care
       body: |
-        <p>2016/17 Woodmoor - (f) Non-School Days</p>
+        <p>Woodmoor - (f) Non-School Days</p>
 #    -
 #      id: class_before_after_school_child_care_2
-#      title: '2016/17 Woodmoor - (b) After Plus Care'
+#      title: 'Woodmoor - (b) After Plus Care'
 #      activity: activity_before_after_school_child_care
 #      body: |
-#        <p>2016/17 Woodmoor - (b) After Plus Care</p>
+#        <p>Woodmoor - (b) After Plus Care</p>
 #    -
 #      id: class_before_after_school_child_care_3
-#      title: '2016/17 Woodmoor - (c) After Care'
+#      title: 'Woodmoor - (c) After Care'
 #      activity: activity_before_after_school_child_care
 #      body: |
-#        <p>2016/17 Woodmoor - (c) After Care</p>
+#        <p>Woodmoor - (c) After Care</p>
 #    -
 #      id: class_before_after_school_child_care_4
-#      title: '2016/17 Sunrise - (a) Before and After Care'
+#      title: 'Sunrise - (a) Before and After Care'
 #      activity: activity_before_after_school_child_care
 #      body: |
-#        <p>2016/17 Sunrise - (a) Before and After Care</p>
+#        <p>Sunrise - (a) Before and After Care</p>
     -
       id: class_before_after_school_programs_1
-      title: '2016/17 Bellevue: No School Days - Package Option'
+      title: 'Bellevue: No School Days - Package Option'
       activity: activity_before_after_school_programs
       body: |
-        <p>2016/17 Bellevue: No School Days - Package Option</p>
+        <p>Bellevue: No School Days - Package Option</p>
     -
       id: class_birthday_parties_1
       title: 'Room Rental'
@@ -1650,16 +1650,16 @@ source:
         <p>Kids Zone 4 wks - 11 yrs</p>
     -
       id: class_preschool_child_care_1
-      title: '2016/17 Northshore- Preschool Child Care (30m-4yr)'
+      title: 'Northshore- Preschool Child Care (30m-4yr)'
       activity: activity_preschool_child_care
       body: |
-        <p>2016/17 Northshore- Preschool Child Care (30m-4yr)</p>
+        <p>Northshore- Preschool Child Care (30m-4yr)</p>
 #    -
 #      id: class_preschool_child_care_2
-#      title: '2016/17 Northshore - Pre-K Child Care (4 - 5yrs)'
+#      title: 'Northshore - Pre-K Child Care (4 - 5yrs)'
 #      activity: activity_preschool_child_care
 #      body: |
-#        <p>2016/17 Northshore - Pre-K Child Care (4 - 5yrs)</p>
+#        <p>Northshore - Pre-K Child Care (4 - 5yrs)</p>
     -
       id: class_sports_classes_workshops_youth_1
       title: 'HomeZone'
