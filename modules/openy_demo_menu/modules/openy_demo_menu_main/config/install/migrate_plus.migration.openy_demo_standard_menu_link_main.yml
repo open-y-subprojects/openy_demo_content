@@ -66,9 +66,6 @@ source:
     id:
       type: integer
 process:
-  bundle:
-    plugin: default_value
-    default_value: menu_link_content
   title: title
   menu_name: menu_name
   link/uri:
