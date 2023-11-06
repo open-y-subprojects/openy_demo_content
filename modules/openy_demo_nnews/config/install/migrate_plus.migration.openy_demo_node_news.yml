@@ -16,7 +16,7 @@ source:
   data_rows:
     -
       id: 1
-      title: 'Summer Day Camp 2018'
+      title: 'Summer Day Camp'
       created: '2017-04-27 8:00am'
       category: 1
       related: null
@@ -26,7 +26,7 @@ source:
       branch: 1
       body: >
         <p>Fall has just arrived, but it is never too early to think about Camp
-        for 2018. Since your child had the #BestSummerEver, what better time to
+        for next year. Since your child had the #BestSummerEver, what better time to
         reserve your spot for next year. Monthly installment plan option is
         available.</p>
     -
@@ -326,7 +326,7 @@ source:
         visit from UW football players and wrapped up their summer searching for Sasquatch.
         In between, our campers played new sports such as lacrosse and tennis, engaged in
         STEM activities with LEGO Engineering and Robotics, learned to cook, ride a bike,
-        performed magic, and so much more. As summer 2018 comes to close and campers reflect
+        performed magic, and so much more. As summer comes to close and campers reflect
         on their great adventures, we know the memories and friends they made will last a
         lifetime.</p>
     -
