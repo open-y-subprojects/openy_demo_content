@@ -600,7 +600,7 @@ source:
       reg_title: 'Register Now'
     -
       id: b4_and_after_school_programs_2016_17_bellevue_no_school_days_2
-      title: '2016/17 Bellevue: No School Days - Package Option'
+      title: 'Bellevue: No School Days - Package Option'
       class: before_and_after_school_programs_2016_17_bellevue_no_school_days
       times:
         -

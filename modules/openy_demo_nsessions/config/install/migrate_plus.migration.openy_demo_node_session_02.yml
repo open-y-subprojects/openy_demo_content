@@ -74,7 +74,7 @@ source:
       activity_type: ''
     -
       id: health_and_wellness_workshops_aoa_brain_agility_fee_spr_2017
-      title: 'AOA Brain Agility - Class Fee, Spring 2017'
+      title: 'AOA Brain Agility - Class Fee, Spring'
       class: health_and_wellness_workshops_aoa_brain_agility_fee_spr_2017
       times:
         -
@@ -91,7 +91,7 @@ source:
       activity_type: ''
     -
       id: health_and_wellness_workshops_aoa_brain_agility_mat_fee_spr_2017
-      title: 'AOA Brain Agility - Materials Fee, Spring 2017'
+      title: 'AOA Brain Agility - Materials Fee, Spring'
       class: health_and_wellness_workshops_aoa_brain_agility_mat_fee_spr_2017
       times:
         -
@@ -142,7 +142,7 @@ source:
       activity_type: 'group'
     -
       id: group_exercise_classes_moving_for_balance_spr_2017
-      title: 'Moving for Better Balance - Continuing Spring 2017'
+      title: 'Moving for Better Balance - Continuing Spring'
       class: group_exercise_classes_moving_for_balance_spr_2017
       times:
         -
@@ -522,7 +522,7 @@ source:
       activity_type: ''
     -
       id: before_after_school_child_care_2016_17_woodmoor_non_school_days
-      title: '2016/17 Woodmoor - (f) Non-School Days'
+      title: 'Woodmoor - (f) Non-School Days'
       class: before_after_school_child_care_2016_17_woodmoor_non_school_days
       times:
         -
@@ -542,7 +542,7 @@ source:
       activity_type: ''
     -
       id: before_after_school_child_care_2016_17_woodmoor_after_plus
-      title: '2016/17 Woodmoor - (b) After Plus Care'
+      title: 'Woodmoor - (b) After Plus Care'
       class: before_after_school_child_care_2016_17_woodmoor_after_plus
       times:
         -
@@ -562,7 +562,7 @@ source:
       activity_type: ''
     -
       id: before_after_school_child_care_2016_17_woodmoor_after
-      title: '2016/17 Woodmoor - (c) After Care'
+      title: 'Woodmoor - (c) After Care'
       class: before_after_school_child_care_2016_17_woodmoor_after
       times:
         -
@@ -582,7 +582,7 @@ source:
       activity_type: ''
     -
       id: before_after_school_child_care_2016_17_sunrise_before_after
-      title: '2016/17 Sunrise - (a) Before and After Care'
+      title: 'Sunrise - (a) Before and After Care'
       class: before_after_school_child_care_2016_17_sunrise_before_after
       times:
         -
@@ -602,7 +602,7 @@ source:
       activity_type: ''
     -
       id: preschool_child_care_2016_17_northshore_pre_k_4_5yrs
-      title: '2016/17 Northshore - Pre-K Child Care (4 - 5yrs)'
+      title: 'Northshore - Pre-K Child Care (4 - 5yrs)'
       class: preschool_child_care_2016_17_northshore_pre_k_4_5yrs
       times:
         -
@@ -622,7 +622,7 @@ source:
       activity_type: ''
     -
       id: preschool_child_care_2016_17_northshore_preschool_30m_4yr
-      title: '2016/17 Northshore- Preschool Child Care (30m-4yr)'
+      title: 'Northshore- Preschool Child Care (30m-4yr)'
       class: preschool_child_care_2016_17_northshore_preschool_30m_4yr
       times:
         -
@@ -642,7 +642,7 @@ source:
       activity_type: ''
     -
       id: discovery_day_camp_drop_off_carol_edwards_ctr_2017
-      title: 'Discovery Camp: Drop-off - Carol Edwards Ctr. 2017'
+      title: 'Discovery Camp: Drop-off - Carol Edwards Ctr.'
       class: discovery_day_camp_drop_off_carol_edwards_ctr_2017
       times:
         -
@@ -662,7 +662,7 @@ source:
       activity_type: ''
     -
       id: discovery_day_camp_drop_off_kenmore_elementary_2017
-      title: 'Discovery Camp: Drop-off - Kenmore Elementary 2017'
+      title: 'Discovery Camp: Drop-off - Kenmore Elementary'
       class: discovery_day_camp_drop_off_kenmore_elementary_2017
       times:
         -
@@ -682,7 +682,7 @@ source:
       activity_type: ''
     -
       id: discovery_day_camp_drop_off_Northshore_ymca_2017
-      title: 'Discovery Camp: Drop-off - Northshore YMCA 2017'
+      title: 'Discovery Camp: Drop-off - Northshore YMCA'
       class: discovery_day_camp_drop_off_Northshore_ymca_2017
       times:
         -

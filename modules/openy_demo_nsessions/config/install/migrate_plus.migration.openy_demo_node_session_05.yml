@@ -75,7 +75,7 @@ source:
       activity_type: ''
     -
       id: health_and_wellness_workshops_aoa_brain_agility_fee_spr_2017_2
-      title: 'For camp AOA Brain Agility - Class Fee, Spring 2017'
+      title: 'For camp AOA Brain Agility - Class Fee, Spring'
       class: health_and_wellness_workshops_aoa_brain_agility_fee_spr_2017
       times:
         -
@@ -94,7 +94,7 @@ source:
       activity_type: ''
     -
       id: health_n_wellness_wrkshps_aoa_brain_agility_mat_fee_spr_2017_2
-      title: 'For camp AOA Brain Agility - Materials Fee, Spring 2017'
+      title: 'For camp AOA Brain Agility - Materials Fee, Spring'
       class: health_and_wellness_workshops_aoa_brain_agility_mat_fee_spr_2017
       times:
         -
@@ -145,7 +145,7 @@ source:
       activity_type: ''
     -
       id: group_exercise_classes_moving_for_balance_spr_2017_2
-      title: 'For camp Moving for Better Balance - Continuing Spring 2017'
+      title: 'For camp Moving for Better Balance - Continuing Spring'
       class: group_exercise_classes_moving_for_balance_spr_2017
       times:
         -
@@ -646,7 +646,7 @@ source:
       activity_type: ''
     -
       id: discovery_day_camp_drop_off_carol_edwards_ctr_2017_2
-      title: 'For camp Discovery Camp: Drop-off - Carol Edwards Ctr. 2017'
+      title: 'For camp Discovery Camp: Drop-off - Carol Edwards Ctr.'
       class: discovery_day_camp_drop_off_carol_edwards_ctr_2017
       times:
         -
@@ -666,7 +666,7 @@ source:
       activity_type: ''
     -
       id: discovery_day_camp_drop_off_kenmore_elementary_2017_2
-      title: 'For camp Discovery Camp: Drop-off - Kenmore Elementary 2017'
+      title: 'For camp Discovery Camp: Drop-off - Kenmore Elementary'
       class: discovery_day_camp_drop_off_kenmore_elementary_2017
       times:
         -
@@ -686,7 +686,7 @@ source:
       activity_type: ''
     -
       id: discovery_day_camp_drop_off_Northshore_ymca_2017_2
-      title: 'For camp Discovery Camp: Drop-off - Northshore YMCA 2017'
+      title: 'For camp Discovery Camp: Drop-off - Northshore YMCA'
       class: discovery_day_camp_drop_off_Northshore_ymca_2017
       times:
         -
@@ -1204,7 +1204,7 @@ source:
       activity_type: ''
     -
       id: session_camp_5
-      title: 'For camp Discover Camp: Drop-off - Carol Edwards Ctr. 2017'
+      title: 'For camp Discover Camp: Drop-off - Carol Edwards Ctr.'
       class: class_discovery_day_camp_1
       times:
         -
