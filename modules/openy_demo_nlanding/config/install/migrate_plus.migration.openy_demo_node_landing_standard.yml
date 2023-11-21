@@ -14,8 +14,8 @@ source:
   data_rows:
     -
       id: homepage
-      title: 'YMCA Website Services'
-      alias: ''
+      title: 'Legacy Home Page'
+      alias: '/legacy-home-page'
       layout: one_column
       header_content_ids:
         -
