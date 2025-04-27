@@ -1,3 +1,4 @@
+# Modified to add ALT text for images from openy_demo_content/modules/openy_demo_nbranch/config/install/migrate_plus.migration.openy_demo_nbranch_file.yml
 langcode: en
 status: true
 dependencies:
@@ -20,66 +21,82 @@ source:
       id: 1
       name: 'Gallery image #1'
       file: 1
+      alt: "An outdoor basketball court, representing sports and recreation facilities available at a YMCA branch." # Image: tamarcus-brown-eKkeKfDt1Vk-unsplash.jpg
     -
       id: 2
       name: 'Gallery image #2'
       file: 2
+      alt: "Interior view of a modern building with large windows, suggesting a welcoming and open space within a YMCA branch." # Image: jessica-wilson-S8juWUDoyn0-unsplash.jpg
     -
       id: 3
       name: 'Gallery image #3'
       file: 3
+      alt: "A person working out with weights in a gym, illustrating fitness facilities and strength training options at a YMCA branch." # Image: honey-yanibel-minaya-cruz-1D7M5IOciLA-unsplash.jpg
     -
       id: 4
       name: 'Gallery image #4'
       file: 4
+      alt: "A person swimming laps in an indoor pool, representing the aquatic facilities available at a YMCA branch." # Image: marco-sartori-QIK9fG4mBmc-unsplash.jpg
     -
       id: 5
       name: 'Gallery image #5'
       file: 5
+      alt: "Exercise bikes in a fitness studio, showing group fitness or cycling classes offered at a YMCA branch." # Image: nicola-fioravanti-UrAKbpKnak8-unsplash.jpg
     -
       id: 6
       name: 'Gallery image #6'
       file: 6
+      alt: "A climbing wall in an indoor recreation area, representing adventurous activities and youth programs at a YMCA branch." # Image: isaiah-rustad-fbbNHCAhXyA-unsplash.jpg
     -
       id: 7
       name: 'Gallery image #7'
       file: 7
+      alt: "Empty yoga mats laid out in a studio space, suggesting wellness programs and yoga classes at a YMCA branch." # Image: mark-bertulfo-XKimW0pke6w-unsplash.jpg
     -
       id: 8
       name: 'Gallery image #8'
       file: 8
+      alt: "Exterior view of a building with a clean, modern design, potentially representing the architectural style of a YMCA branch." # Image: foto-garage-ag-MObvDHLX3jI-unsplash.jpg
     -
       id: 9
       name: 'Gallery image #9'
       file: 9
+      alt: "Interior of a bright, open community space with tables and chairs, suitable for meetings or gathering at a YMCA branch." # Image: hannah-olinger-NXiIVnzBwZ8-unsplash.jpg
     -
       id: 10
       name: 'Gallery image #10'
       file: 10
+      alt: "Interior of a bright, open community space with tables and chairs, suitable for meetings or gathering at a YMCA branch." # Image: hannah-olinger-NXiIVnzBwZ8-unsplash.jpg
     -
       id: 11
       name: 'Gallery image #11'
       file: 11
+      alt: "A person running on an indoor track, representing indoor fitness and running facilities at a YMCA branch." # Image: allef-vinicius-onGipw1rkPU-unsplash.jpg
     -
       id: 12
       name: 'Gallery image #12'
       file: 12
+      alt: "A bright, clean children's play area with colorful equipment, illustrating childcare or youth activity spaces at a YMCA branch." # Image: brandless-VKnjdEesFxw-unsplash.jpg
     -
       id: 13
       name: 'Gallery image #13'
       file: 13
+      alt: "A person sitting and reading in a comfortable chair, suggesting quiet areas or lounges available at a YMCA branch." # Image: chuttersnap-B0dx5ptuf50-unsplash.jpg
     -
       id: 14
       name: 'Gallery image #14'
       file: 14
+      alt: "Treadmills and other cardio equipment in a fitness center, showcasing the exercise machines available at a YMCA branch." # Image: marcel-painchaud-P7ud-Dj1vCI-unsplash.jpg
     -
       id: 15
       name: 'Gallery image #15'
       file: 15
+      alt: "Lockers in a changing room area, representing the facilities provided for members at a YMCA branch." # Image: jesper-aggergaard-rA5aJvQ2l6g-unsplash.jpg
     -
       id: 16
       name: 'Gallery image #16'
       file: 16
+      alt: "A group of people in a dynamic fitness class, showing group exercise programs and energy at a YMCA branch." # Image: gesina-kunkel-oCvRMqmQ5do-unsplash.jpg
   ids:
     id:
       type: integer
@@ -105,6 +122,12 @@ process:
       plugin: migration_lookup
       migration: openy_demo_nbranch_file
       source: file
+    -
+      plugin: default_value
+      default_value: null
+  'field_media_image/alt':
+    plugin: get
+    source: alt
 destination:
   plugin: 'entity:media'
 migration_dependencies:
