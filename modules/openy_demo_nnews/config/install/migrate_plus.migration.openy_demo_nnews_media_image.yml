@@ -1,4 +1,3 @@
-# Modified to add ALT text for images from openy_demo_content/modules/openy_demo_nnews/config/install/migrate_plus.migration.openy_demo_nnews_file.yml
 dependencies:
   module:
     - openy_media_image
@@ -17,62 +16,50 @@ source:
       id: 1
       name: 'News post image 1'
       file: 1
-      alt: "A person's hands holding a smartphone displaying social media, representing news sharing and digital communication in the YMCA community." # Image: abigail-miller-r4sxIf0gTfs-unsplash.jpg
     -
       id: 2
       name: 'News post image 2'
       file: 2
-      alt: "Children playing and learning in a group, symbolizing positive news and community impact stories from the YMCA." # Image: anna-samoylova-w55SpMmoPgE-unsplash.jpg
     -
       id: 3
       name: 'News post image 3'
       file: 3
-      alt: "A person reading a newspaper or document, representing staying informed about YMCA news and updates." # Image: guillermo-diaz-mier-y-teran-UrsIDtdBDVQ-unsplash.jpg
     -
       id: 4
       name: 'News post image 4'
       file: 4
-      alt: "A diverse group of people smiling and talking, highlighting positive news about community engagement and connection at the YMCA." # Image: sheri-hooley-khQYktTLkLc-unsplash.jpg
     -
       id: 5
       name: 'News post image 5'
       file: 5
-      alt: "Hands typing on a laptop, symbolizing news writing, digital content creation, or online resources from the YMCA." # Image: jesper-stechmann-nb2l7FmbSdA-unsplash.jpg
     -
       id: 6
       name: 'News post image 6'
       file: 6
-      alt: "A person speaking publicly, suggesting news about events, announcements, or leadership messages from the YMCA." # Image: patricia-prudente-6UyWK8mDcWo-unsplash.jpg
     -
       id: 7
       name: 'News post image 7'
       file: 7
-      alt: "Hands holding a pen and writing in a notebook, representing news reporting, note-taking, or important information from the YMCA." # Image: erik-brolin-ZARfCYDaVg0-unsplash.jpg
     -
       id: 8
       name: 'News post image 8'
       file: 8
-      alt: "Abstract image with blurred figures and light, suggesting dynamic news or updates within the YMCA community." # Image: eddy-billard-EJLpBC6rUv8-unsplash.jpg
     -
       id: 9
       name: 'News post image 9'
       file: 9
-      alt: "A person looking thoughtfully at something, symbolizing reflection on news or important information from the YMCA." # Image: rafaela-biazi-Z1gUDZusp7s-unsplash.jpg
     -
       id: 10
       name: 'News post image 10'
       file: 10
-      alt: "A graphic representing digital communication or social media, relevant to how YMCA news is shared online." # Image: inspired-horizons-digital-marketing-kufLAiPoIlI-unsplash.jpg
     -
       id: 11
       name: 'News post image 11'
       file: 11
-      alt: "A person looking happy and healthy, representing news stories about health, wellness, or positive impact from YMCA programs." # Image: allgo-an-app-for-plus-size-people-lAXOrQqrEjM-unsplash.jpg
     -
       id: 12
       name: 'News post image 12'
       file: 12
-      alt: "A group of diverse people in a positive interaction, highlighting news about community unity and inclusion at the YMCA." # Image: trust-tru-katsande-A_ftsTh53lM-unsplash.jpg
   ids:
     id:
       type: integer
@@ -98,12 +85,6 @@ process:
       plugin: migration_lookup
       migration: openy_demo_nnews_file
       source: file
-    -
-      plugin: default_value
-      default_value: null
-  'field_media_image/alt':
-    plugin: get
-    source: alt
 destination:
   plugin: 'entity:media'
 migration_dependencies:
