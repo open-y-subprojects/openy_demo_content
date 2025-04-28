@@ -1,4 +1,3 @@
-# Modified to add ALT text for images from openy_demo_content/modules/openy_demo_ncamp/config/install/migrate_plus.migration.openy_demo_ncamp_file.yml
 dependencies:
   module:
     - openy_media_image
@@ -17,47 +16,38 @@ source:
       id: 1
       name: 'Gallery camp image #1'
       file: 1
-      alt: "A campfire under a starry sky at night, evoking the experience of storytelling and bonding at a YMCA camp." # Image: tomek-baginski-2g7CAh4jzeY-unsplash.jpg
     -
       id: 2
       name: 'Gallery camp image #2'
       file: 2
-      alt: "Children's hands painting vibrant colors, representing creative arts and expression activities at a YMCA camp." # Image: mi-pham-0DPyb8t_KfI-unsplash.jpg
     -
       id: 3
       name: 'Gallery camp image #3'
       file: 3
-      alt: "Sunlight filtering through tall trees in a forest, symbolizing outdoor exploration, nature walks, and adventure at a YMCA camp." # Image: siim-lukka-XGMUmv_KoH8-unsplash.jpg
     -
       id: 4
       name: 'Gallery camp image #4'
       file: 4
-      alt: "Close-up of colorful woven fabric or friendship bracelets, representing crafts and the strong bonds of friendship formed at a YMCA camp." # Image: timur-m-6C8FE-Rex_w-unsplash.jpg
     -
       id: 5
       name: 'Gallery camp image #5'
       file: 5
-      alt: "A blurred image of moving water, suggesting waterfront activities like swimming, canoeing, or kayaking at a YMCA camp." # Image: markus-spiske-1S0-pHmQ-TY-unsplash.jpg
     -
       id: 6
       name: 'Gallery camp image #6'
       file: 6
-      alt: "A child looking out a window at rain, representing indoor activities, reflection, or waiting for the fun to resume at a YMCA camp." # Image: anna-samoylova-bTp32-t6K7c-unsplash.jpg
     -
       id: 7
       name: 'Gallery camp image #7'
       file: 7
-      alt: "Children playing tag or running in a field, showing energetic outdoor games and physical activity at a YMCA camp." # Image: anupam-mahapatra-Vz0RbclzG_w-unsplash.jpg
     -
       id: 8
       name: 'Gallery camp image #8'
       file: 8
-      alt: "People paddling a canoe or kayak on calm water, illustrating water sports and teamwork at a YMCA camp." # Image: adria-crehuet-cano-LIhB1_mAGhY-unsplash.jpg
     -
       id: 9
       name: 'Gallery camp image #9'
       file: 9
-      alt: "Diverse group of children engaged in a STEM activity, highlighting educational programs and hands-on learning at a YMCA camp." # Image: stem-t4l-CFfoGuhptok-unsplash.jpg
   ids:
     id:
       type: integer
@@ -83,12 +73,6 @@ process:
       plugin: migration_lookup
       migration: openy_demo_ncamp_file
       source: file
-    -
-      plugin: default_value
-      default_value: null
-  'field_media_image/alt':
-    plugin: get
-    source: alt
 destination:
   plugin: 'entity:media'
 migration_dependencies:

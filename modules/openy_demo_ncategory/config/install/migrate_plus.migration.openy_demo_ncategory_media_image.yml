@@ -1,4 +1,3 @@
-# Modified to add ALT text for images from openy_demo_content/modules/openy_demo_ncategory/config/install/migrate_plus.migration.openy_demo_ncategory_file.yml
 dependencies:
   module:
     - openy_media_image
@@ -16,112 +15,90 @@ source:
       id: active_older_adults
       name: 'Active Older Adults'
       file: active_older_adults
-      alt: "An older adult smiling and looking active, representing programs for active older adults at the YMCA." # Image: ekta-agarwal-AJdjW36KOQs-unsplash.jpg
     -
       id: cooking_and_crafts
       name: 'Cooking & Crafts'
       file: cooking_and_crafts
-      alt: "Hands working with colorful materials, symbolizing cooking and crafts classes or activities at the YMCA." # Image: brandless-xoCZEKJxwgY-unsplash.jpg
     -
       id: drop-in_swim
       name: 'Drop-in Swim'
       file: drop-in_swim
-      alt: "A swimmer in a pool during a drop-in swim session at the YMCA." # Image: jeff-dunham-fq673rUxrsQ-unsplash.jpg
     -
       id: family_activities
       name: 'Family Activities'
       file: family_activities
-      alt: "A family engaged in a fun activity, representing family activities and programs at the YMCA." # Image: ronny-sison-1146295-unsplash.jpg
     -
       id: group_exercise_classes
       name: 'Group Exercise Classes'
       file: group_exercise_classes
-      alt: "A group of people participating in a high-energy exercise class, illustrating group fitness programs at the YMCA." # Image: danielle-cerullo-3ckWUnaCxzc-unsplash.jpg
     -
       id: health_and_fitness_for_kids_and_teens
       name: 'Health & Fitness for Kids & Teens'
       file: health_and_fitness_for_kids_and_teens
-      alt: "Energetic kids exercising or playing sports, symbolizing health and fitness programs for children and teens at the YMCA." # Image: michelle-moody-WkY8KhEFXak-unsplash.jpg
     -
       id: kids_university_and_enrichment_classes
       name: 'Kids University & Enrichment Classes'
       file: kids_university_and_enrichment_classes
-      alt: "A group of children learning in a classroom setting, representing Kids University and enrichment classes at the YMCA." # Image: aaron-burden-1zR3WNSTnvY-unsplash.jpg
     -
       id: kids_zone_activity_centers
       name: 'Kids Zone Activity Centers'
       file: kids_zone_activity_centers
-      alt: "Children playing in a supervised kids' zone or activity center at the YMCA." # Image: spurs-I2a1ugkVcXY-unsplash.jpg
     -
       id: personal_training
       name: 'Personal Training'
       file: personal_training
-      alt: "A trainer guiding a person through a workout, depicting personal training services available at the YMCA." # Image: meghan-holmes-wy_L8W0zcpI-unsplash.jpg
     -
       id: programs_for_health
       name: 'Programs for Health'
       file: programs_for_health
-      alt: "Someone receiving medical attention or care, symbolizing programs focused on health and well-being at the YMCA." # Image: hush-naidoo-pA0uoltkwao-unsplash.jpg
     -
       id: recreation
       name: 'Recreation'
       file: recreation
-      alt: "People enjoying outdoor recreational activities, representing recreation programs offered by the YMCA." # Image: stage-7-photography-1226559-unsplash.jpg
     -
       id: small_group_and_specialty_training
       name: 'Small Group & Specialty Training'
       file: small_group_and_specialty_training
-      alt: "A small group engaged in specialized training, illustrating small group or specialty training programs at the YMCA." # Image: justyn-warner-529957-unsplash.jpg
     -
       id: sports
       name: 'Sports'
       file: sports
-      alt: "Players competing in a sport, symbolizing sports programs and leagues at the YMCA." # Image: tommy-boudreau-diO0a_ZEiEE-unsplash.jpg
     -
       id: swim_lessons
       name: 'Swim Lessons'
       file: swim_lessons
-      alt: "A child learning to swim with an instructor, representing swim lessons at the YMCA." # Image: sydney-rae-AAWH8V4rgKY-unsplash.jpg
     -
       id: swim_team
       name: 'Swim Team'
       file: swim_team
-      alt: "Swimmers in a competitive setting, depicting the swim team program at the YMCA." # Image: thomas-park-QGdRrty4054-unsplash.jpg
     -
       id: weight_loss
       name: 'Weight Loss'
       file: weight_loss
-      alt: "A person looking happy and healthy, representing weight loss and wellness programs at the YMCA." # Image: allgo-an-app-for-plus-size-people-lAXOrQqrEjM-unsplash.jpg
     -
       id: bold_and_gold
       name: 'Bold & Gold'
       file: bold_and_gold
-      alt: "A group of young people working together on a project, symbolizing youth leadership or group initiatives like Bold & Gold at the YMCA." # Image: anna-earl-J-Jb1niw1j0-unsplash.jpg
     -
       id: before_and_after_school_child_care
       name: 'Before & After School Child Care'
       file: before_and_after_school_child_care
-      alt: "Children playing and learning in a structured environment, representing before and after school child care at the YMCA." # Image: rainier-ridao-L-9DfF3_uVA-unsplash.jpg
     -
       id: earth_service_corps
       name: 'Earth Service Corps'
       file: earth_service_corps
-      alt: "People working together outdoors in a natural setting, depicting environmental programs or community service like Earth Service Corps at the YMCA." # Image: matthew-smith-Rfflri94rs8-unsplash.jpg
     -
       id: academic_success
       name: 'Academic Success'
       file: academic_success
-      alt: "A person studying or working on academics, symbolizing programs focused on academic success and educational support at the YMCA." # Image: tyler-nix-sh3LSNbyj7k-unsplash.jpg
     -
       id: day_camps
       name: 'Day Camps'
       file: day_camps
-      alt: "Children playing happily outdoors in a camp setting, representing day camps offered by the YMCA." # Image: anna-samoylova-w55SpMmoPgE-unsplash.jpg
     -
       id: preschool
       name: 'Preschool'
       file: preschool
-      alt: "Young children engaged in activities, illustrating the preschool programs at the YMCA." # Image: gabby-orcutt-74607-unsplash.jpg
   ids:
     id:
       type: string
@@ -141,9 +118,6 @@ process:
     plugin: migration_lookup
     migration: openy_demo_ncategory_file
     source: file
-  'field_media_image/alt':
-    plugin: get
-    source: alt
 destination:
   plugin: 'entity:media'
 migration_dependencies:

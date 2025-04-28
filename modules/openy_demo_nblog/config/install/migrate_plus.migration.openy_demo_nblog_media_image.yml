@@ -1,4 +1,3 @@
-# Modified to add ALT text for images from openy_demo_content/modules/openy_demo_nblog/config/install/migrate_plus.migration.openy_demo_nblog_file.yml
 dependencies:
   module:
     - openy_media_image
@@ -16,52 +15,42 @@ source:
       id: 1
       name: 'Blog post image 1'
       file: 1
-      alt: "A person smiling and looking at a tablet, representing engagement and learning opportunities at the YMCA." # Image: kelly-sikkema-PMxoh8zJNb0-unsplash.jpg
     -
       id: 2
       name: 'Blog post image 2'
       file: 2
-      alt: "Hands reaching out towards a setting sun, symbolizing hope, community connection, and outdoor activities at the YMCA." # Image: david-di-veroli-2RMWPwYMZ84-unsplash.jpg
     -
       id: 3
       name: 'Blog post image 3'
       file: 3
-      alt: "Abstract image with blurred lights, suggesting the dynamic and energetic atmosphere of a YMCA facility or event." # Image: paul-binas-GOz7O2y639U-unsplash.jpg
     -
       id: 4
       name: 'Blog post image 4'
       file: 4
-      alt: "Person writing in a notebook, representing educational programs, personal growth, or planning within the YMCA community." # Image: thought-catalog-9aOswReDKPo-unsplash.jpg
     -
       id: 5
       name: 'Blog post image 5'
       file: 5
-      alt: "A vibrant, abstract pattern that could represent creativity, diversity, or the many facets of community life at the YMCA." # Image: joan-azeka-bg43g7xTu2M-unsplash.jpg
     -
       id: 6
       name: 'Blog post image 6'
       file: 6
-      alt: "View from above of people walking on a street, suggesting community members coming together or the accessibility of YMCA programs." # Image: thom-holmes-nWy_OyaAWdU-unsplash.jpg
     -
       id: 7
       name: 'Blog post image 7'
       file: 7
-      alt: "Diverse group of people smiling, highlighting the inclusive and welcoming environment of the YMCA." # Image: rawpixel-771284-unsplash.jpg
     -
       id: 8
       name: 'Blog post image 8'
       file: 8
-      alt: "Close-up of a person's eye, conveying focus, personal development, or looking towards a brighter future with the YMCA." # Image: baylee-gramling-R5eoT-c-jkY-unsplash.jpg
     -
       id: 9
       name: 'Blog post image 9'
       file: 9
-      alt: "People sitting around a table with laptops, representing collaboration, digital literacy, or community work spaces at the YMCA." # Image: zachary-nelson-98Elr-LIvD8-unsplash.jpg
     -
       id: 10
       name: 'Blog post image 10'
       file: 10
-      alt: "Scenic view of a forest path, symbolizing exploration, nature programs, or the journey of personal well-being encouraged by the YMCA." # Image: david-marcu-69433-unsplash.jpg
   ids:
     id:
       type: integer
@@ -87,12 +76,6 @@ process:
       plugin: migration_lookup
       migration: openy_demo_nblog_file
       source: file
-    -
-      plugin: default_value
-      default_value: null
-  'field_media_image/alt':
-    plugin: get
-    source: alt
 destination:
   plugin: 'entity:media'
 migration_dependencies:
