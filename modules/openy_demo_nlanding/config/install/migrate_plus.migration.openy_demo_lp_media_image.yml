@@ -1,3 +1,4 @@
+# Modified to add ALT text for images from openy_demo_content/modules/openy_demo_nlanding/config/install/migrate_plus.migration.openy_demo_lp_file.yml
 dependencies:
   enforced:
     module:
@@ -15,50 +16,62 @@ source:
       id: homepage_banner
       name: 'Home page banner'
       file: homepage_banner
+      alt: "Diverse group of people in a meeting, representing community collaboration and planning at the YMCA." # Image: rawpixel-1137676-unsplash.jpg
     -
       id: about
       name: 'About'
       file: about
+      alt: "Two people shaking hands across a table, symbolizing partnership, welcome, or a new beginning at the YMCA." # Image: perry-grone-lbLgFFlADrY-unsplash.jpg
     -
       id: give
       name: 'Give'
       file: give
+      alt: "Hands holding a small plant growing in soil, representing growth, nurturing, and community projects at the YMCA, possibly related to giving or sustainability." # Image: matt-nelson-2Rb2I8TZ6O8-unsplash.jpg
     -
       id: accelerator_one
       name: 'Accelerator One'
       file: accelerator_one
+      alt: "A group of diverse individuals smiling and looking forward, symbolizing acceleration, progress, and shared goals within a YMCA program." # Image: rawpixel-284728-unsplash.jpg
     -
       id: accelerator_two
       name: 'Accelerator Two'
       file: accelerator_two
+      alt: "Close-up of a person's hands typing on a laptop keyboard, representing digital access, learning technology, or administrative work at the YMCA." # Image: brandless-jmIZ-q-qoZY-unsplash.jpg
     -
       id: accelerator_three
       name: 'Accelerator Three'
       file: accelerator_three
+      alt: "Three people standing together looking at something in the distance, symbolizing looking ahead, shared vision, or a small group activity at the YMCA." # Image: blake-barlow-iHP1sEmn92I-unsplash.jpg
     -
       id: education_and_employment
       name: 'Education & Employment'
       file: education_and_employment
+      alt: "A person writing on a whiteboard during a presentation, representing educational workshops, training, or learning opportunities at the YMCA." # Image: adeolu-eletu-134760-unsplash.jpg
     -
       id: housing_and_transition_planning
       name: 'Housing & Transition Planning'
       file: housing_and_transition_planning
+      alt: "Hands holding keys, suggesting themes of housing support, transition services, or access provided by the YMCA." # Image: maria-ziegler-jJnZg7vBfMs-unsplash.jpg
     -
       id: join_one
       name: 'Join One'
       file: join_one
+      alt: "An individual reaching out to touch something, symbolizing connection, engagement, or reaching for a goal within the YMCA community." # Image: clay-banks-LjqARJaJotc-unsplash.jpg
     -
       id: join_two
       name: 'Join Two'
       file: join_two
+      alt: "Two people smiling and talking outdoors, representing social connection, informal meetings, or outdoor activities at the YMCA." # Image: bruce-mars-gJtDg6WfMlQ-unsplash.jpg
     -
       id: join_three
       name: 'Join Three'
       file: join_three
+      alt: "A diverse group of young adults smiling together, highlighting youth programs, friendship, and community involvement at the YMCA." # Image: meghan-holmes-buWcS7G1_28-unsplash.jpg
     -
       id: swimming_banner
       name: 'Swimming Lessons banner'
       file: swimming_banner
+      alt: "A person swimming underwater in a pool, depicting swimming lessons, aquatic programs, or recreational swimming at the YMCA." # Image: henry-russell-Jcb37oy1nU0-unsplash.jpg
   ids:
     id:
       type: string
@@ -78,6 +91,9 @@ process:
     plugin: migration_lookup
     migration: openy_demo_lp_file
     source: file
+  'field_media_image/alt':
+    plugin: get
+    source: alt
 destination:
   plugin: 'entity:media'
 migration_dependencies:

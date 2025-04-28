@@ -1,3 +1,4 @@
+# Modified to add ALT text for images from openy_demo_content/modules/openy_demo_nmbrshp/config/install/migrate_plus.migration.openy_demo_membership_file.yml
 dependencies:
   enforced:
     module:
@@ -15,30 +16,37 @@ source:
       id: couple_image
       name: 'couple.jpg'
       file: couple_image
+      alt: "A smiling couple, representing couple membership at the YMCA and shared health and community." # Image: couple.png
     -
       id: adult_image
       name: 'adult.jpg'
       file: adult_image
+      alt: "A portrait of a smiling adult, symbolizing individual adult membership and personal well-being at the YMCA." # Image: adult.png
     -
       id: youth_image
       name: 'youth.jpg'
       file: youth_image
+      alt: "A young person smiling, representing youth membership and programs focused on youth development at the YMCA." # Image: youth.png
     -
       id: teen_young_adult_image
       name: 'young_adult.jpg'
       file: teen_young_adult_image
+      alt: "A young adult looking forward confidently, representing young adult membership and engagement opportunities at the YMCA." # Image: young_adult.png
     -
       id: family_1_image
       name: 'family_1.jpg'
       file: family_1_image
+      alt: "A diverse family group smiling together, highlighting family membership and inclusive activities for all ages at the YMCA." # Image: family_1.png
     -
       id: family_2_image
       name: 'family_2.jpg'
       file: family_2_image
+      alt: "Another image of a happy family, reinforcing the value of family membership and shared experiences at the YMCA." # Image: family_2.png
     -
       id: senior_image
       name: 'senior.jpg'
       file: senior_image
+      alt: "A smiling senior adult, representing senior membership and programs tailored for older adults in the YMCA community." # Image: senior.png
   ids:
     id:
       type: string
@@ -58,6 +66,9 @@ process:
     plugin: migration_lookup
     migration: openy_demo_membership_file
     source: file
+  'field_media_image/alt':
+    plugin: get
+    source: alt
 destination:
   plugin: 'entity:media'
 migration_dependencies:

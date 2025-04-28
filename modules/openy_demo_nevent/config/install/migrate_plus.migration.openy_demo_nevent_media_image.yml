@@ -1,3 +1,4 @@
+# Modified to add ALT text for images from openy_demo_content/modules/openy_demo_nevent/config/install/migrate_plus.migration.openy_demo_nevent_file.yml
 dependencies:
   module:
     - openy_media_image
@@ -15,18 +16,22 @@ source:
       id: 2
       name: 'Event post image 2'
       file: 2
+      alt: "A person's hands holding a heart shape made of paper, symbolizing love, community, and caring related to a YMCA event." # Image: janko-ferlic-specialdaddy-MIUqc2mmdBA-unsplash.jpg
     -
       id: 4
       name: 'Event post image 4'
       file: 4
+      alt: "A vibrant crowd with hands raised, representing an energetic community event or gathering at the YMCA." # Image: andres-mora-LbJD0y3l-50-unsplash.jpg
     -
       id: 6
       name: 'Event post image 6'
       file: 6
+      alt: "Confetti falling, indicating a celebration, special occasion, or festive event at the YMCA." # Image: chang-duong-KrfID_ZQxWs-unsplash.jpg
     -
       id: 7
       name: 'Event post image 7'
       file: 7
+      alt: "A close-up of a microphone on a stand, suggesting a speaking engagement, performance, or presentation at a YMCA event." # Image: kenny-krosky-19iwynR1vaQ-unsplash.jpg
   ids:
     id:
       type: integer
@@ -52,6 +57,12 @@ process:
       plugin: migration_lookup
       migration: openy_demo_nevent_file
       source: file
+    -
+      plugin: default_value
+      default_value: null
+  'field_media_image/alt':
+    plugin: get
+    source: alt
 destination:
   plugin: 'entity:media'
 migration_dependencies:
