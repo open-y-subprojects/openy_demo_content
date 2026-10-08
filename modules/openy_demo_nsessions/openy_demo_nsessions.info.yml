@@ -1,7 +1,7 @@
 name: YMCA Website Services Demo Node Sessions
 description: Stores migrations to create demo session nodes.
 type: module
-core_version_requirement: ^10 || ^11
+core_version_requirement: ^10 || ^11 || ^12
 version: 2.0.2
 package: YMCA Website Services
 dependencies:
